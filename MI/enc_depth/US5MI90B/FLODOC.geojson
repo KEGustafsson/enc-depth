@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "FLODOC",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 1560, "PRIM": 3, "GRUP": 1, "OBJL": 57, "RVER": 1, "AGEN": 550, "FIDN": -21426874, "FIDS": 63163, "LNAM": "0226FEB90D46F6BB", "STATUS": [ "12" ], "INFORM": "Float", "SORDAT": "20011020", "SORIND": "US,US,graph,Chart 14907" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -86.416887, 43.7666204 ], [ -86.416763, 43.7666227 ], [ -86.4167614, 43.7665339 ], [ -86.4168902, 43.7665316 ], [ -86.416887, 43.7666204 ] ] ] } }
+]
+}

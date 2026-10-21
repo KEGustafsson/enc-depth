@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WRECKS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 25, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 786167486, "FIDS": 7300, "LNAM": "02262EDBF6BE1C84", "CATWRK": 2, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "201410", "SORIND": "US,US,graph,Chart 14963" }, "geometry": { "type": "Point", "coordinates": [ -86.5184019, 46.5158962 ] } },
+{ "type": "Feature", "properties": { "RCID": 26, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 478720496, "FIDS": 7300, "LNAM": "02261C88B1F01C84", "CATWRK": 2, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "19960302", "SORIND": "US,US,graph,Chart 14963" }, "geometry": { "type": "Point", "coordinates": [ -86.4005355, 46.5622387 ] } }
+]
+}

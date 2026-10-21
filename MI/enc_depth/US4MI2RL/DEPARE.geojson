@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DEPARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 1, "PRIM": 3, "GRUP": 1, "OBJL": 42, "RVER": 1, "AGEN": 550, "FIDN": 972770011, "FIDS": 7300, "LNAM": "022639FB4ADB1C84", "DRVAL1": 9.1, "DRVAL2": 365.7 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -87.0, 46.8 ], [ -87.3, 46.8 ], [ -87.3, 47.1 ], [ -87.0, 47.1 ], [ -87.0, 46.8 ] ] ] } }
+]
+}

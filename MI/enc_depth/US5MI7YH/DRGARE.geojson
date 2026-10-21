@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DRGARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 37, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": -1192105500, "FIDS": 41680, "LNAM": "0226B8F1E9E4A2D0", "DRVAL1": 5.5, "OBJNAM": "Saint Marys River, Point Iroquois Shoals Channel", "QUASOU": [ "11" ], "SORDAT": "20200630", "SORIND": "US,US,graph,DD-32959" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -84.6, 46.4884341 ], [ -84.6, 46.4896439 ], [ -84.6053326, 46.4937743 ], [ -84.6068588, 46.4949564 ], [ -84.6076992, 46.4944726 ], [ -84.6062655, 46.493289 ], [ -84.6, 46.4884341 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 38, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 2, "AGEN": 550, "FIDN": 872543791, "FIDS": 37092, "LNAM": "02263401F62F90E4", "DRVAL1": 9.1, "OBJNAM": "Saint Marys River, Brush Point Course", "QUASOU": [ "10" ], "TXTDSC": "US365YHC.TXT", "SORDAT": "200705", "SORIND": "US,US,graph,Chart 14884" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -84.6, 46.4972477 ], [ -84.6, 46.4979105 ], [ -84.6026683, 46.5 ], [ -84.603261, 46.5 ], [ -84.6034066, 46.5 ], [ -84.6078895, 46.5 ], [ -84.6026557, 46.4958504 ], [ -84.6023248, 46.4956535 ], [ -84.6053326, 46.4937743 ], [ -84.6, 46.4896439 ], [ -84.6, 46.4938851 ], [ -84.6, 46.4971312 ], [ -84.6, 46.4972477 ] ] ] } }
+]
+}

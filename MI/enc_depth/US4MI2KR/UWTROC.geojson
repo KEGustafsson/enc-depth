@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "UWTROC",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 104, "PRIM": 1, "GRUP": 2, "OBJL": 153, "RVER": 1, "AGEN": 550, "FIDN": 583764518, "FIDS": 8527, "LNAM": "022622CB8A26214F", "QUASOU": [ "2" ], "WATLEV": 4, "SORDAT": "200507", "SORIND": "US,US,graph,Chart 14913" }, "geometry": { "type": "Point", "coordinates": [ -85.3837704, 44.9777238 ] } },
+{ "type": "Feature", "properties": { "RCID": 105, "PRIM": 1, "GRUP": 2, "OBJL": 153, "RVER": 1, "AGEN": 550, "FIDN": 852385210, "FIDS": 8527, "LNAM": "022632CE5DBA214F", "QUASOU": [ "2" ], "WATLEV": 4, "SORDAT": "20110703", "SORIND": "US,US,graph,GC-11083" }, "geometry": { "type": "Point", "coordinates": [ -85.3879517, 44.9785607 ] } },
+{ "type": "Feature", "properties": { "RCID": 106, "PRIM": 1, "GRUP": 2, "OBJL": 153, "RVER": 1, "AGEN": 550, "FIDN": 435741083, "FIDS": 8527, "LNAM": "022619F8E19B214F", "QUASOU": [ "2" ], "WATLEV": 4, "SORDAT": "20110703", "SORIND": "US,US,graph,GC-11083" }, "geometry": { "type": "Point", "coordinates": [ -85.4915283, 44.9082051 ] } },
+{ "type": "Feature", "properties": { "RCID": 107, "PRIM": 1, "GRUP": 2, "OBJL": 153, "RVER": 1, "AGEN": 550, "FIDN": 11091551, "FIDS": 8527, "LNAM": "022600A93E5F214F", "QUASOU": [ "2" ], "WATLEV": 4, "SORDAT": "200507", "SORIND": "US,US,graph,Chart 14913" }, "geometry": { "type": "Point", "coordinates": [ -85.4964226, 44.8687338 ] } },
+{ "type": "Feature", "properties": { "RCID": 108, "PRIM": 1, "GRUP": 2, "OBJL": 153, "RVER": 1, "AGEN": 550, "FIDN": 602592182, "FIDS": 8527, "LNAM": "022623EAD3B6214F", "QUASOU": [ "2" ], "WATLEV": 4, "SORDAT": "20110703", "SORIND": "US,US,graph,GC-11083" }, "geometry": { "type": "Point", "coordinates": [ -85.4900165, 44.8915495 ] } },
+{ "type": "Feature", "properties": { "RCID": 109, "PRIM": 1, "GRUP": 2, "OBJL": 153, "RVER": 1, "AGEN": 550, "FIDN": 64699203, "FIDS": 8527, "LNAM": "022603DB3B43214F", "EXPSOU": 1, "QUASOU": [ "6" ], "VALSOU": 10.6, "WATLEV": 3, "SORDAT": "201610", "SORIND": "US,US,graph,Chart 14913" }, "geometry": { "type": "Point", "coordinates": [ -85.4858662, 44.8198208 ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SLCONS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 25, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 438733016, "FIDS": 5460, "LNAM": "02261A2688D81554", "CATSLC": 4, "WATLEV": 2, "SORDAT": "20110703", "SORIND": "US,US,graph,GC-11080" }, "geometry": { "type": "LineString", "coordinates": [ [ -85.2436735, 45.2949635 ], [ -85.2447782, 45.2946807 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 26, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 243083531, "FIDS": 2857, "LNAM": "02260E7D290B0B29", "CATSLC": 4, "CONDTN": 2, "WATLEV": 3, "SORDAT": "200507", "SORIND": "US,US,graph,Chart 14913" }, "geometry": { "type": "LineString", "coordinates": [ [ -85.3698611, 45.0773168 ], [ -85.3712403, 45.0774211 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 27, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 243083532, "FIDS": 2857, "LNAM": "02260E7D290C0B29", "CATSLC": 4, "CONDTN": 2, "WATLEV": 3, "SORDAT": "200507", "SORIND": "US,US,graph,Chart 14913" }, "geometry": { "type": "LineString", "coordinates": [ [ -85.3696943, 45.0776049 ], [ -85.3712512, 45.0776997 ], [ -85.3718527, 45.0777038 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 28, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 25318532, "FIDS": 8683, "LNAM": "02260182548421EB", "CATSLC": 4, "WATLEV": 2, "SORDAT": "20110703", "SORIND": "US,US,graph,GC-11080" }, "geometry": { "type": "LineString", "coordinates": [ [ -85.2445363, 45.2942698 ], [ -85.2444552, 45.2942907 ], [ -85.243591, 45.2945137 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 29, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 676617957, "FIDS": 8683, "LNAM": "022628545EE521EB", "CATSLC": 4, "WATLEV": 2, "SORDAT": "20110703", "SORIND": "US,US,graph,GC-11080" }, "geometry": { "type": "LineString", "coordinates": [ [ -85.2444552, 45.2942907 ], [ -85.244242, 45.2938624 ], [ -85.2429924, 45.2941919 ], [ -85.2434457, 45.2950321 ] ] } }
+]
+}

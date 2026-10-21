@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "DSID",
+"features": [
+{ "type": "Feature", "properties": { "DSID_EXPP": 1, "DSID_INTU": 6, "DSID_DSNM": "US6MI71M.000", "DSID_EDTN": "5", "DSID_UPDN": "2", "DSID_UADT": "20240814", "DSID_ISDT": "20250327", "DSID_STED": 3.1, "DSID_PRSP": 1, "DSID_PSDN": "", "DSID_PRED": "2.0", "DSID_PROF": 1, "DSID_AGEN": 550, "DSID_COMT": "Produced by NOAA", "DSSI_DSTR": 2, "DSSI_AALL": 1, "DSSI_NALL": 2, "DSSI_NOMR": 7, "DSSI_NOCR": 0, "DSSI_NOGR": 127, "DSSI_NOLR": 0, "DSSI_NOIN": 17, "DSSI_NOCN": 113, "DSSI_NOED": 133, "DSSI_NOFA": 0, "DSPM_HDAT": 2, "DSPM_VDAT": 25, "DSPM_SDAT": 25, "DSPM_CSCL": 4000, "DSPM_DUNI": 1, "DSPM_HUNI": 1, "DSPM_PUNI": 1, "DSPM_COUN": 1, "DSPM_COMF": 10000000, "DSPM_SOMF": 10, "DSPM_COMT": "Produced by NOAA" }, "geometry": null }
+]
+}

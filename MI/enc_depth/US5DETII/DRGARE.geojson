@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DRGARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 17, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 101414792, "FIDS": 45458, "LNAM": "0226060B7788B192", "DRVAL1": 8.3, "OBJNAM": "Lake Saint Clair, Peche Island Channel", "QUASOU": [ "11" ], "INFORM": "Project depth", "SORDAT": "201011", "SORIND": "US,US,graph,Chart 14850" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -82.8, 42.4309167 ], [ -82.7980189, 42.4322524 ], [ -82.7713478, 42.45 ], [ -82.7754897, 42.45 ], [ -82.8, 42.4337969 ], [ -82.8, 42.4309167 ] ] ] } }
+]
+}

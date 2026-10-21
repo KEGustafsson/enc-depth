@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "OBSTRN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 86, "PRIM": 3, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 585298427, "FIDS": 7297, "LNAM": "022622E2F1FB1C81", "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "200302", "SORIND": "US,US,graph,Chart 14910" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -87.826335, 44.8976232 ], [ -87.8259673, 44.8973977 ], [ -87.8259279, 44.8975009 ], [ -87.8258672, 44.8976877 ], [ -87.8258386, 44.8978805 ], [ -87.8258388, 44.8978813 ], [ -87.8260001, 44.8977915 ], [ -87.826335, 44.8976232 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 87, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 973941830, "FIDS": 7297, "LNAM": "02263A0D2C461C81", "CATOBS": 1, "CONDTN": 2, "QUASOU": [ "2" ], "WATLEV": 3, "INFORM": "Piles", "SORDAT": "20150926", "SORIND": "US,US,graph,GC-10924, DD-29116(CEF)" }, "geometry": { "type": "Point", "coordinates": [ -87.830996, 44.9016623 ] } }
+]
+}

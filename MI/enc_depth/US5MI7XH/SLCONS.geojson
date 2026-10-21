@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SLCONS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 6, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 1803318573, "FIDS": 41680, "LNAM": "02266B7C752DA2D0", "CATSLC": 10, "WATLEV": 2, "SORDAT": "20081006", "SORIND": "US,US,graph,GC-10834" }, "geometry": { "type": "LineString", "coordinates": [ [ -84.6012659, 46.4222777 ], [ -84.6013009, 46.4222948 ], [ -84.6016076, 46.4222919 ], [ -84.601987, 46.422292 ], [ -84.6022366, 46.4222897 ], [ -84.6023031, 46.4223321 ], [ -84.602302, 46.4224277 ], [ -84.602242, 46.4224621 ], [ -84.6019576, 46.4224614 ], [ -84.6016495, 46.4224622 ], [ -84.6013134, 46.4224622 ], [ -84.6012684, 46.4224386 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 7, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 1861741247, "FIDS": 41680, "LNAM": "02266EF7EABFA2D0", "CATSLC": 10, "WATLEV": 2, "SORDAT": "20081006", "SORIND": "US,US,graph,GC-10834" }, "geometry": { "type": "LineString", "coordinates": [ [ -84.601214, 46.4239817 ], [ -84.6013253, 46.4239733 ], [ -84.601538, 46.4239705 ], [ -84.601544, 46.4241705 ], [ -84.6019063, 46.4241669 ], [ -84.6019053, 46.424226 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 8, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": -612442443, "FIDS": 41680, "LNAM": "0226DB7EDEB5A2D0", "CATSLC": 10, "WATLEV": 2, "SORDAT": "20081006", "SORIND": "US,US,graph,GC-10834" }, "geometry": { "type": "LineString", "coordinates": [ [ -84.6020503, 46.4242268 ], [ -84.6020528, 46.4241658 ], [ -84.6022928, 46.424165 ], [ -84.6022844, 46.4238856 ], [ -84.602275, 46.4237312 ], [ -84.6021543, 46.4237415 ], [ -84.6020381, 46.4237525 ], [ -84.6018489, 46.4237627 ], [ -84.6017143, 46.4237725 ], [ -84.60124, 46.4238048 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 9, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 407731811, "FIDS": 41680, "LNAM": "0226184D7E63A2D0", "CATSLC": 12, "WATLEV": 2, "SORDAT": "20081006", "SORIND": "US,US,graph,GC-10834" }, "geometry": { "type": "LineString", "coordinates": [ [ -84.6019053, 46.424226 ], [ -84.6020503, 46.4242268 ] ] } }
+]
+}

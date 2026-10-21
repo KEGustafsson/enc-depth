@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "OBSTRN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 161, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 343149097, "FIDS": 5458, "LNAM": "022614740A291552", "QUASOU": [ "2" ], "WATLEV": 3, "INFORM": "Canadian NAVWARN NW-C-1350-19.  Piece of concrete 1 metre by 1 metre reported submerged.", "SORDAT": "20190620", "SORIND": "CA,CA,reprt,CCG,L-59-2021" }, "geometry": { "type": "Point", "coordinates": [ -83.1076666, 42.0458333 ] } },
+{ "type": "Feature", "properties": { "RCID": 162, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 615457527, "FIDS": 5458, "LNAM": "022624AF22F71552", "QUASOU": [ "2" ], "WATLEV": 3, "INFORM": "Net stake", "SORDAT": "19971122", "SORIND": "US,US,graph,chart 14848" }, "geometry": { "type": "Point", "coordinates": [ -83.1194924, 42.0100312 ] } },
+{ "type": "Feature", "properties": { "RCID": 163, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 18445535, "FIDS": 5458, "LNAM": "0226011974DF1552", "QUASOU": [ "2" ], "WATLEV": 3, "INFORM": "Buoy", "SORDAT": "201608", "SORIND": "US,US,graph,Chart 14853" }, "geometry": { "type": "Point", "coordinates": [ -83.1329969, 42.0575823 ] } },
+{ "type": "Feature", "properties": { "RCID": 164, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 664203716, "FIDS": 5458, "LNAM": "02262796F1C41552", "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "201608", "SORIND": "US,US,graph,Chart 14853" }, "geometry": { "type": "Point", "coordinates": [ -83.1326104, 42.0722785 ] } },
+{ "type": "Feature", "properties": { "RCID": 165, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 870808579, "FIDS": 5458, "LNAM": "022633E77C031552", "CATOBS": 1, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "201608", "SORIND": "US,US,graph,Chart 14853" }, "geometry": { "type": "Point", "coordinates": [ -83.1168429, 42.0741165 ] } }
+]
+}

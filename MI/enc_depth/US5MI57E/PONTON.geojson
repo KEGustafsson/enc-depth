@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "PONTON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 1552, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": -2134102707, "FIDS": 15681, "LNAM": "022680CC2D4D3D41", "SCAMIN": 21999, "SORDAT": "20110703", "SORIND": "US,US,graph,GC-11080" }, "geometry": { "type": "LineString", "coordinates": [ [ -84.9811286, 45.4297178 ], [ -84.9812194, 45.4297139 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 1553, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": 331779726, "FIDS": 15681, "LNAM": "022613C68E8E3D41", "CONDTN": 2, "SCAMIN": 21999, "SORDAT": "20110703", "SORIND": "US,US,graph,GC-11080" }, "geometry": { "type": "LineString", "coordinates": [ [ -84.981109, 45.4296466 ], [ -84.9812139, 45.4296306 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 1554, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": 785116013, "FIDS": 15681, "LNAM": "02262ECBEB6D3D41", "CONDTN": 2, "SCAMIN": 21999, "SORDAT": "20110703", "SORIND": "US,US,graph,GC-11080" }, "geometry": { "type": "LineString", "coordinates": [ [ -84.9810894, 45.4295753 ], [ -84.9811892, 45.4295602 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 1555, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": 445855900, "FIDS": 15681, "LNAM": "02261A93389C3D41", "SCAMIN": 21999, "SORDAT": "20110703", "SORIND": "US,US,graph,GC-11080" }, "geometry": { "type": "LineString", "coordinates": [ [ -84.9810464, 45.4294558 ], [ -84.9810534, 45.4294547 ], [ -84.9811543, 45.4294383 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 1556, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": -1328646123, "FIDS": 15681, "LNAM": "0226B0CE78153D41", "SCAMIN": 21999, "SORDAT": "20110703", "SORIND": "US,US,graph,GC-11080" }, "geometry": { "type": "LineString", "coordinates": [ [ -84.9810715, 45.4295141 ], [ -84.9811708, 45.4295034 ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "M_COVR",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 1088, "PRIM": 3, "GRUP": 2, "OBJL": 302, "RVER": 1, "AGEN": 550, "FIDN": -1728270380, "FIDS": 12241, "LNAM": "022698FCAFD42FD1", "CATCOV": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -84.4512278, 46.5 ], [ -84.525, 46.5 ], [ -84.525, 46.5299227 ], [ -84.525, 46.575 ], [ -84.45, 46.575 ], [ -84.45, 46.514348 ], [ -84.45, 46.5067401 ], [ -84.45, 46.500297 ], [ -84.45, 46.5 ], [ -84.4512278, 46.5 ] ] ] } }
+]
+}

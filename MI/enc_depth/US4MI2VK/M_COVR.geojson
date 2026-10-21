@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "M_COVR",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 159, "PRIM": 3, "GRUP": 2, "OBJL": 302, "RVER": 1, "AGEN": 550, "FIDN": -149188900, "FIDS": 8527, "LNAM": "0226F71B8EDC214F", "CATCOV": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -87.6, 48.0107787 ], [ -87.6, 48.0 ], [ -87.5723068, 48.0 ], [ -87.5777066, 48.0021028 ], [ -87.5892705, 48.0066041 ], [ -87.6, 48.0107787 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 160, "PRIM": 3, "GRUP": 2, "OBJL": 302, "RVER": 1, "AGEN": 550, "FIDN": -149188899, "FIDS": 8527, "LNAM": "0226F71B8EDD214F", "CATCOV": 2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -87.6, 48.0107787 ], [ -87.5892705, 48.0066041 ], [ -87.5777066, 48.0021028 ], [ -87.5723068, 48.0 ], [ -87.5723068, 48.0107787 ], [ -87.6, 48.0107787 ] ] ] } }
+]
+}

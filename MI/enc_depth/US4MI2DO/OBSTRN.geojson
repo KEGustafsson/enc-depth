@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "OBSTRN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 105, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 978700085, "FIDS": 8675, "LNAM": "02263A55C73521E3", "CATOBS": 4, "EXPSOU": 2, "QUASOU": [ "6" ], "VALSOU": 8.8, "WATLEV": 3, "INFORM": "Potable water intake", "TXTDSC": "US139DOB.TXT", "SORDAT": "19970322", "SORIND": "US,US,graph,Chart 14906" }, "geometry": { "type": "Point", "coordinates": [ -86.2260809, 42.8520052 ] } },
+{ "type": "Feature", "properties": { "RCID": 106, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 933882339, "FIDS": 8675, "LNAM": "022637A9E9E321E3", "CATOBS": 4, "EXPSOU": 1, "QUASOU": [ "6" ], "VALSOU": 9.4, "WATLEV": 3, "INFORM": "Potable water intake", "TXTDSC": "US139DOB.TXT", "SORDAT": "201309", "SORIND": "US,US,graph,Chart 14906" }, "geometry": { "type": "Point", "coordinates": [ -86.2259102, 42.7996969 ] } }
+]
+}

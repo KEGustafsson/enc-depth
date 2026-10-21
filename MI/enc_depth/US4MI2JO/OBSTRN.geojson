@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "OBSTRN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 73, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 679095082, "FIDS": 8527, "LNAM": "0226287A2B2A214F", "CATOBS": 1, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "20011020", "SORIND": "US,US,graph,Chart 14907" }, "geometry": { "type": "Point", "coordinates": [ -86.2367052, 44.5120723 ] } },
+{ "type": "Feature", "properties": { "RCID": 74, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 493307004, "FIDS": 8527, "LNAM": "02261D67447C214F", "CATOBS": 1, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "20011020", "SORIND": "US,US,graph,Chart 14907" }, "geometry": { "type": "Point", "coordinates": [ -86.2378943, 44.5121608 ] } }
+]
+}

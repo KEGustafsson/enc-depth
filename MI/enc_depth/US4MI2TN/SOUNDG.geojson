@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "SOUNDG",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 152, "PRIM": 1, "GRUP": 2, "OBJL": 129, "RVER": 1, "AGEN": 550, "FIDN": -1723754335, "FIDS": 5458, "LNAM": "0226994198A11552", "SCAMIN": 119999, "SORDAT": "19990828", "SORIND": "US,US,graph,Chart 14961", "DEPTH": 243.2 }, "geometry": { "type": "Point", "coordinates": [ -86.6242761, 47.5785404, 243.2 ] } },
+{ "type": "Feature", "properties": { "RCID": 152, "PRIM": 1, "GRUP": 2, "OBJL": 129, "RVER": 1, "AGEN": 550, "FIDN": -1723754335, "FIDS": 5458, "LNAM": "0226994198A11552", "SCAMIN": 119999, "SORDAT": "19990828", "SORIND": "US,US,graph,Chart 14961", "DEPTH": 252.3 }, "geometry": { "type": "Point", "coordinates": [ -86.6144446, 47.455585, 252.3 ] } },
+{ "type": "Feature", "properties": { "RCID": 152, "PRIM": 1, "GRUP": 2, "OBJL": 129, "RVER": 1, "AGEN": 550, "FIDN": -1723754335, "FIDS": 5458, "LNAM": "0226994198A11552", "SCAMIN": 119999, "SORDAT": "19990828", "SORIND": "US,US,graph,Chart 14961", "DEPTH": 221.2 }, "geometry": { "type": "Point", "coordinates": [ -86.57135, 47.47681, 221.2 ] } },
+{ "type": "Feature", "properties": { "RCID": 152, "PRIM": 1, "GRUP": 2, "OBJL": 129, "RVER": 1, "AGEN": 550, "FIDN": -1723754335, "FIDS": 5458, "LNAM": "0226994198A11552", "SCAMIN": 119999, "SORDAT": "19990828", "SORIND": "US,US,graph,Chart 14961", "DEPTH": 192.0 }, "geometry": { "type": "Point", "coordinates": [ -86.5271133, 47.4230261, 192.0 ] } },
+{ "type": "Feature", "properties": { "RCID": 152, "PRIM": 1, "GRUP": 2, "OBJL": 129, "RVER": 1, "AGEN": 550, "FIDN": -1723754335, "FIDS": 5458, "LNAM": "0226994198A11552", "SCAMIN": 119999, "SORDAT": "19990828", "SORIND": "US,US,graph,Chart 14961", "DEPTH": 219.4 }, "geometry": { "type": "Point", "coordinates": [ -86.5205751, 47.5362154, 219.4 ] } },
+{ "type": "Feature", "properties": { "RCID": 152, "PRIM": 1, "GRUP": 2, "OBJL": 129, "RVER": 1, "AGEN": 550, "FIDN": -1723754335, "FIDS": 5458, "LNAM": "0226994198A11552", "SCAMIN": 119999, "SORDAT": "19990828", "SORIND": "US,US,graph,Chart 14961", "DEPTH": 129.8 }, "geometry": { "type": "Point", "coordinates": [ -86.4073293, 47.5095203, 129.8 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "UWTROC",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 826, "PRIM": 1, "GRUP": 2, "OBJL": 153, "RVER": 1, "AGEN": 550, "FIDN": -625024245, "FIDS": 24342, "LNAM": "0226DABEE30B5F16", "QUASOU": [ "2" ], "WATLEV": 4, "SORDAT": "201606", "SORIND": "US,US,graph,Chart 14846" }, "geometry": { "type": "Point", "coordinates": [ -82.9649228, 41.5190114 ] } },
+{ "type": "Feature", "properties": { "RCID": 827, "PRIM": 1, "GRUP": 2, "OBJL": 153, "RVER": 1, "AGEN": 550, "FIDN": -198453314, "FIDS": 24342, "LNAM": "0226F42BD7BE5F16", "EXPSOU": 2, "VALSOU": 0.0, "WATLEV": 5, "SORDAT": "201606", "SORIND": "US,US,graph,Chart 14846" }, "geometry": { "type": "Point", "coordinates": [ -82.9595038, 41.5233355 ] } }
+]
+}
