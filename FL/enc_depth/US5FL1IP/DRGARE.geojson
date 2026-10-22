@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DRGARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 186, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 185153852, "FIDS": 7387, "LNAM": "02260B09393C1CDB", "DRVAL1": 2.4, "OBJNAM": "Sandestin Beach Channel", "QUASOU": [ "11" ], "SORDAT": "1992", "SORIND": "US,US,graph,Chart 11385" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -86.3349162, 30.3945896 ], [ -86.334808, 30.394511 ], [ -86.3344982, 30.3948122 ], [ -86.334567, 30.394867 ], [ -86.335798, 30.395805 ], [ -86.335967, 30.395934 ], [ -86.3363131, 30.3956633 ], [ -86.3361121, 30.395487 ], [ -86.3349162, 30.3945896 ] ] ] } }
+]
+}

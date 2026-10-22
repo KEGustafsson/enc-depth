@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "M_QUAL",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 10, "PRIM": 3, "GRUP": 2, "OBJL": 308, "RVER": 1, "AGEN": 550, "FIDN": 37663953, "FIDS": 5516, "LNAM": "0226023EB4D1158C", "CATZOC": 4, "SUREND": "1959", "SURSTA": "1950", "SORDAT": "20170830", "SORIND": "US,US,reprt,L-719/17" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -83.0663651, 26.7 ], [ -83.1, 26.7 ], [ -83.1, 27.0 ], [ -83.0926302, 27.0 ], [ -82.9664837, 27.0 ], [ -82.9001679, 27.0 ], [ -82.8, 27.0 ], [ -82.8, 26.8048908 ], [ -82.8, 26.800557 ], [ -82.8, 26.7 ], [ -83.0663651, 26.7 ] ] ] } }
+]
+}

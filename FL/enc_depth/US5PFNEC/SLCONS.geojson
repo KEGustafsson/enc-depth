@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SLCONS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 90, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 541706196, "FIDS": 8684, "LNAM": "02262049C7D421EC", "CATSLC": 14, "CONDTN": 2, "WATLEV": 4, "SORDAT": "20170402", "SORIND": "US,US,graph,GC-11409, GC-11409(CEF)" }, "geometry": { "type": "LineString", "coordinates": [ [ -85.7684531, 30.2252066 ], [ -85.7683509, 30.2251525 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 91, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 779876211, "FIDS": 8684, "LNAM": "02262E7BF77321EC", "CATSLC": 14, "CONDTN": 2, "WATLEV": 3, "SORDAT": "20170402", "SORIND": "US,US,graph,GC-11409, GC-11409(CEF)" }, "geometry": { "type": "LineString", "coordinates": [ [ -85.7690286, 30.2255956 ], [ -85.7685851, 30.2254847 ], [ -85.7683426, 30.2256537 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 92, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 783429868, "FIDS": 8684, "LNAM": "02262EB230EC21EC", "CATSLC": 14, "CONDTN": 2, "WATLEV": 3, "SORDAT": "20170402", "SORIND": "US,US,graph,GC-11409, GC-11409(CEF)" }, "geometry": { "type": "LineString", "coordinates": [ [ -85.768267, 30.2303965 ], [ -85.7680711, 30.2302232 ], [ -85.7678236, 30.2302222 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 93, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 594943481, "FIDS": 8684, "LNAM": "022623761DF921EC", "CATSLC": 14, "CONDTN": 2, "WATLEV": 3, "SORDAT": "20170402", "SORIND": "US,US,graph,GC-11409, GC-11409(CEF)" }, "geometry": { "type": "LineString", "coordinates": [ [ -85.768426, 30.2300333 ], [ -85.7681371, 30.2300756 ], [ -85.7679909, 30.2297935 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 94, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 660240433, "FIDS": 8684, "LNAM": "0226275A783121EC", "CATSLC": 14, "CONDTN": 2, "WATLEV": 3, "SORDAT": "20170402", "SORIND": "US,US,graph,GC-11409, GC-11409(CEF)" }, "geometry": { "type": "LineString", "coordinates": [ [ -85.7690035, 30.2251525 ], [ -85.7685841, 30.225276 ], [ -85.7684531, 30.2252066 ] ] } }
+]
+}

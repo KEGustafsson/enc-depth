@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SLCONS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 102, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 909996431, "FIDS": 7396, "LNAM": "0226363D718F1CE4", "CATSLC": 4, "WATLEV": 2, "SORDAT": "200511", "SORIND": "US,US,graph,Chart 11430" }, "geometry": { "type": "LineString", "coordinates": [ [ -81.45498, 25.8042393 ], [ -81.4549859, 25.8042987 ], [ -81.4549987, 25.8044289 ], [ -81.455013, 25.804574 ] ] } }
+]
+}

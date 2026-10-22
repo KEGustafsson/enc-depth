@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "OBSTRN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 5, "PRIM": 3, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 71074501, "FIDS": 48032, "LNAM": "0226043C82C5BBA0", "CATOBS": 5, "QUASOU": [ "2" ], "WATLEV": 3, "INFORM": "Wreck reported", "SORDAT": "200311", "SORIND": "US,US,graph,Chart 11484" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -80.3562368, 28.5 ], [ -80.3562519, 28.4995009 ], [ -80.3539466, 28.4995009 ], [ -80.3539466, 28.5 ], [ -80.3562368, 28.5 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 6, "PRIM": 3, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 2069277758, "FIDS": 48032, "LNAM": "02267B56AC3EBBA0", "CATOBS": 5, "EXPSOU": 2, "OBJNAM": "BREVARD COUNTY ARTIFICIAL REEF 2", "QUASOU": [ "7" ], "VALSOU": 15.2, "WATLEV": 3, "SORDAT": "20150807", "SORIND": "US,US,reprt,L-1417/15" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -80.274945, 28.358945 ], [ -80.2941383, 28.3527217 ], [ -80.2997741, 28.3672529 ], [ -80.2997741, 28.3672762 ], [ -80.3001112, 28.3675661 ], [ -80.3159441, 28.4083133 ], [ -80.3119107, 28.4088705 ], [ -80.3131596, 28.4121631 ], [ -80.2997741, 28.4136182 ], [ -80.2997741, 28.4136474 ], [ -80.2945303, 28.4142188 ], [ -80.2750361, 28.3636924 ], [ -80.2764936, 28.3628268 ], [ -80.274945, 28.358945 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 7, "PRIM": 3, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": -1239513553, "FIDS": 48032, "LNAM": "0226B61E862FBBA0", "CATOBS": 5, "EXPSOU": 2, "QUASOU": [ "7" ], "VALSOU": 27.4, "WATLEV": 3, "SORDAT": "200404", "SORIND": "US,US,graph,Chart 11476" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -80.2065015, 28.3319873 ], [ -80.2065015, 28.3361751 ], [ -80.2017643, 28.3361751 ], [ -80.2017643, 28.3319332 ], [ -80.2065015, 28.3319873 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 8, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": -156404612, "FIDS": 48032, "LNAM": "0226F6AD747CBBA0", "EXPSOU": 2, "QUASOU": [ "6" ], "VALSOU": 29.8, "WATLEV": 3, "SORDAT": "200404", "SORIND": "US,US,graph,Chart 11476" }, "geometry": { "type": "Point", "coordinates": [ -80.199119, 28.3336761 ] } }
+]
+}

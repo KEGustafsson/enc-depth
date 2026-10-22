@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "LNDARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 86, "PRIM": 1, "GRUP": 2, "OBJL": 71, "RVER": 1, "AGEN": 550, "FIDN": 343828907, "FIDS": 3143, "LNAM": "0226147E69AB0C47", "SORDAT": "20020420", "SORIND": "US,US,graph,Chart 11431" }, "geometry": { "type": "Point", "coordinates": [ -81.7160131, 25.5669817 ] } }
+]
+}

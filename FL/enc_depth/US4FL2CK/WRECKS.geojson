@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WRECKS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 1, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 471592965, "FIDS": 4305, "LNAM": "02261C1BF00510D1", "CATWRK": 1, "EXPSOU": 1, "OBJNAM": "M/V Freedom Express", "QUASOU": [ "2" ], "WATLEV": 3, "SCAMIN": 259999, "SORDAT": "20060317", "SORIND": "US,US,reprt,L-349/06" }, "geometry": { "type": "Point", "coordinates": [ -79.7383333, 26.155 ] } }
+]
+}

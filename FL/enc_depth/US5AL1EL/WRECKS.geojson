@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WRECKS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 346, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 90767119, "FIDS": 4305, "LNAM": "02260568FF0F10D1", "CATWRK": 2, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "20201021", "SORIND": "US,US,reprt,8thCGD,LNM 42/20" }, "geometry": { "type": "Point", "coordinates": [ -87.5831944, 30.33475 ] } },
+{ "type": "Feature", "properties": { "RCID": 347, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 712168409, "FIDS": 4305, "LNAM": "02262A72D3D910D1", "CATWRK": 5, "WATLEV": 2, "SORDAT": "20140112", "SORIND": "US,US,graph,GC-11167" }, "geometry": { "type": "Point", "coordinates": [ -87.5539367, 30.3184674 ] } },
+{ "type": "Feature", "properties": { "RCID": 348, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 677495800, "FIDS": 4305, "LNAM": "02262861C3F810D1", "CATWRK": 5, "WATLEV": 2, "INFORM": "Sailboat sunk in roberts bayou", "SORDAT": "20070706", "SORIND": "US,US,graph,DB-16264-obs" }, "geometry": { "type": "Point", "coordinates": [ -87.5343124, 30.3247699 ] } }
+]
+}

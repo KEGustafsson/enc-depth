@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "OBSTRN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 97, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": -826467440, "FIDS": 8899, "LNAM": "0226CEBD1B9022C3", "CATOBS": 1, "CONDTN": 2, "QUASOU": [ "2" ], "WATLEV": 3, "INFORM": "Piles", "SORDAT": "20130509", "SORIND": "US,US,graph,GC-11538" }, "geometry": { "type": "Point", "coordinates": [ -81.5218087, 26.7298703 ] } },
+{ "type": "Feature", "properties": { "RCID": 98, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 407539166, "FIDS": 8899, "LNAM": "0226184A8DDE22C3", "CATOBS": 1, "CONDTN": 2, "QUASOU": [ "2" ], "WATLEV": 3, "INFORM": "Pipes", "SORDAT": "20130509", "SORIND": "US,US,graph,GC-11538" }, "geometry": { "type": "Point", "coordinates": [ -81.4476266, 26.7670573 ] } },
+{ "type": "Feature", "properties": { "RCID": 99, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": -175955843, "FIDS": 8899, "LNAM": "0226F583207D22C3", "CATOBS": 1, "CONDTN": 2, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "20130509", "SORIND": "US,US,graph,GC-11538" }, "geometry": { "type": "Point", "coordinates": [ -81.301912, 26.7893657 ] } },
+{ "type": "Feature", "properties": { "RCID": 100, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 1763322791, "FIDS": 8899, "LNAM": "0226691A2BA722C3", "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "201306", "SORIND": "US,US,graph,Chart 11428" }, "geometry": { "type": "Point", "coordinates": [ -81.4175709, 26.7651592 ] } },
+{ "type": "Feature", "properties": { "RCID": 101, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 1960135205, "FIDS": 8899, "LNAM": "022674D54A2522C3", "CATOBS": 10, "WATLEV": 7, "INFORM": "Barrier", "SORDAT": "20130509", "SORIND": "US,US,graph,GC-11538" }, "geometry": { "type": "Point", "coordinates": [ -81.562365, 26.7139498 ] } },
+{ "type": "Feature", "properties": { "RCID": 102, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 83934656, "FIDS": 8899, "LNAM": "02260500BDC022C3", "CATOBS": 1, "CONDTN": 2, "QUASOU": [ "2" ], "WATLEV": 3, "INFORM": "Pipe", "SORDAT": "20130509", "SORIND": "US,US,graph,GC-11538" }, "geometry": { "type": "Point", "coordinates": [ -81.4345677, 26.7688983 ] } }
+]
+}

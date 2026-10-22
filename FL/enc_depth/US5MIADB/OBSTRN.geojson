@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "OBSTRN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 92, "PRIM": 3, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 933284755, "FIDS": 7396, "LNAM": "022637A0CB931CE4", "CATOBS": 6, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "20180909", "SORIND": "US,US,graph,FE-00724" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -80.1753933, 25.8125 ], [ -80.175, 25.8125015 ], [ -80.175, 25.8132194 ], [ -80.175, 25.8132216 ], [ -80.1753158, 25.8126421 ], [ -80.1753933, 25.8125 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 93, "PRIM": 2, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 523008160, "FIDS": 7396, "LNAM": "02261F2C78A01CE4", "CATOBS": 10, "WATLEV": 7, "INFORM": "Floating Barrier.Boom", "SORDAT": "20190423", "SORIND": "US,US,graph,GC-11760" }, "geometry": { "type": "LineString", "coordinates": [ [ -80.1881892, 25.850755 ], [ -80.1884926, 25.8507528 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 94, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 204788574, "FIDS": 7396, "LNAM": "02260C34D35E1CE4", "CATOBS": 1, "QUASOU": [ "2" ], "WATLEV": 4, "INFORM": "Piles", "SORDAT": "201403", "SORIND": "US,US,graph,Chart 11468" }, "geometry": { "type": "Point", "coordinates": [ -80.1753451, 25.8012726 ] } },
+{ "type": "Feature", "properties": { "RCID": 95, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 252611617, "FIDS": 7396, "LNAM": "02260F0E8C211CE4", "CATOBS": 1, "CONDTN": 2, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "20170322", "SORIND": "US,US,graph,GC-11460, GC-11460(CEF)" }, "geometry": { "type": "Point", "coordinates": [ -80.1836998, 25.803675 ] } },
+{ "type": "Feature", "properties": { "RCID": 96, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 523860104, "FIDS": 7396, "LNAM": "02261F3978881CE4", "CATOBS": 1, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "201403", "SORIND": "US,US,graph,Chart 11468" }, "geometry": { "type": "Point", "coordinates": [ -80.1831144, 25.809797 ] } }
+]
+}

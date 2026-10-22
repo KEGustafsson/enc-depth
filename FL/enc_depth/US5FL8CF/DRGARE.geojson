@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "DRGARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 36, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 56931923, "FIDS": 5528, "LNAM": "02260364B6531598", "DRVAL1": 14.4, "OBJNAM": "CUT-1N LIQ", "QUASOU": [ "10" ], "SORDAT": "20250508", "SORIND": "US,US,reprt,DD-42090" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -81.375, 30.7105905 ], [ -81.3, 30.7130715 ], [ -81.3, 30.7130826 ], [ -81.3, 30.7134154 ], [ -81.375, 30.7109344 ], [ -81.375, 30.7109194 ], [ -81.375, 30.7105905 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 37, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 713779319, "FIDS": 5528, "LNAM": "02262A8B68771598", "DRVAL1": 14.3, "OBJNAM": "CUT-1N RIQ", "QUASOU": [ "10" ], "SORDAT": "20250508", "SORIND": "US,US,reprt,DD-42090" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -81.375, 30.7109344 ], [ -81.3, 30.7134154 ], [ -81.3, 30.7134268 ], [ -81.3, 30.7134461 ], [ -81.3, 30.7137594 ], [ -81.375, 30.7112783 ], [ -81.375, 30.7111748 ], [ -81.375, 30.710935 ], [ -81.375, 30.7109344 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 38, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 169804561, "FIDS": 5528, "LNAM": "02260A1F03111598", "DRVAL1": 12.7, "OBJNAM": "CUT-1N ROQ", "QUASOU": [ "10" ], "SORDAT": "20250508", "SORIND": "US,US,reprt,DD-42090" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -81.375, 30.7112783 ], [ -81.3, 30.7137594 ], [ -81.3, 30.7137711 ], [ -81.3, 30.7140993 ], [ -81.3573574, 30.7121887 ], [ -81.375, 30.7116011 ], [ -81.375, 30.71128 ], [ -81.375, 30.7112783 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 39, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 690584407, "FIDS": 5528, "LNAM": "022629297B571598", "DRVAL1": 13.1, "OBJNAM": "CUT-1N LOQ", "QUASOU": [ "10" ], "SORDAT": "20250508", "SORIND": "US,US,reprt,DD-42090" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -81.3573277, 30.7108312 ], [ -81.3, 30.7127276 ], [ -81.3, 30.7127381 ], [ -81.3, 30.7130715 ], [ -81.375, 30.7105905 ], [ -81.375, 30.7105897 ], [ -81.375, 30.7103467 ], [ -81.375, 30.7102587 ], [ -81.375, 30.7102466 ], [ -81.3573277, 30.7108312 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "UWTROC",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 929, "PRIM": 1, "GRUP": 2, "OBJL": 153, "RVER": 1, "AGEN": 550, "FIDN": 561492793, "FIDS": 8684, "LNAM": "02262177B33921EC", "EXPSOU": 1, "QUASOU": [ "6" ], "VALSOU": 0.4, "WATLEV": 3, "INFORM": "rocks", "SORDAT": "20030108", "SORIND": "US,US,reprt,DD3668" }, "geometry": { "type": "Point", "coordinates": [ -82.6687749, 27.4511203 ] } }
+]
+}

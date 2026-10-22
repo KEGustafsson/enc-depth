@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "OBSTRN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 1, "PRIM": 3, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 1417965007, "FIDS": 41680, "LNAM": "022654846DCFA2D0", "CATOBS": 5, "EXPSOU": 2, "QUASOU": [ "7" ], "VALSOU": 114.3, "WATLEV": 3, "SORDAT": "200304", "SORIND": "US,US,graph,Chart 11463" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -80.1, 25.3389482 ], [ -80.1, 25.3396817 ], [ -80.09996, 25.339741 ], [ -80.099322, 25.339389 ], [ -80.099702, 25.338776 ], [ -80.1, 25.3389482 ] ] ] } }
+]
+}

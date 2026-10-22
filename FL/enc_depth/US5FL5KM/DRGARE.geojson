@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DRGARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 78, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 278567024, "FIDS": 8648, "LNAM": "0226109A987021C8", "DRVAL1": 2.2, "OBJNAM": "Turkey Point Channel", "QUASOU": [ "11" ], "INFORM": "Centerline only", "SORDAT": "1983", "SORIND": "US,US,graph,Chart 11463" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -80.325, 25.4394624 ], [ -80.3123174, 25.448906 ], [ -80.3122275, 25.4489729 ], [ -80.2893277, 25.4660235 ], [ -80.2859385, 25.4685469 ], [ -80.2854713, 25.4688947 ], [ -80.284595, 25.469547 ], [ -80.284882, 25.469704 ], [ -80.2857181, 25.4690801 ], [ -80.2894269, 25.4663094 ], [ -80.3120863, 25.4493675 ], [ -80.320889, 25.442786 ], [ -80.325, 25.4397145 ], [ -80.325, 25.4394624 ] ] ] } }
+]
+}

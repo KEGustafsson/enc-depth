@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "DRGARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 27, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 826194122, "FIDS": 7384, "LNAM": "0226313EB8CA1CD8", "DRVAL1": 10.3, "OBJNAM": "Pensacola Civil Entrance Channel Reach 2 RIQ", "SORDAT": "20250612", "SORIND": "US,US,reprt,DD-42328" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -87.3, 30.2945291 ], [ -87.3, 30.2955125 ], [ -87.3017386, 30.3 ], [ -87.3021253, 30.3 ], [ -87.3021565, 30.3 ], [ -87.3, 30.2944339 ], [ -87.3, 30.2945291 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 28, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 398951256, "FIDS": 7384, "LNAM": "022617C783581CD8", "DRVAL1": 10.7, "OBJNAM": "Pensacola Civil Entrance Channel Reach 2 LIQ", "SORDAT": "20250612", "SORIND": "US,US,reprt,DD-42328" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -87.3, 30.2933554 ], [ -87.3, 30.2944339 ], [ -87.3021565, 30.3 ], [ -87.3025744, 30.3 ], [ -87.3, 30.2933554 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 29, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 120463162, "FIDS": 7384, "LNAM": "0226072E1F3A1CD8", "DRVAL1": 8.4, "OBJNAM": "Pensacola Civil Entrance Channel Reach 2 ROQ", "SORDAT": "20250612", "SORIND": "US,US,reprt,DD-42328" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -87.3, 30.2955125 ], [ -87.3, 30.296591 ], [ -87.3005235, 30.2979424 ], [ -87.3007185, 30.2984456 ], [ -87.3010085, 30.299194 ], [ -87.3010842, 30.2993895 ], [ -87.3013207, 30.3 ], [ -87.3017386, 30.3 ], [ -87.3, 30.2955125 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 30, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 451455417, "FIDS": 7384, "LNAM": "02261AE8A9B91CD8", "DRVAL1": 9.2, "OBJNAM": "Pensacola Civil Entrance Channel Reach 2 LOQ", "SORDAT": "20250612", "SORIND": "US,US,reprt,DD-42328" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -87.3, 30.2922769 ], [ -87.3, 30.2933554 ], [ -87.3025744, 30.3 ], [ -87.3029922, 30.3 ], [ -87.3, 30.2922769 ] ] ] } }
+]
+}

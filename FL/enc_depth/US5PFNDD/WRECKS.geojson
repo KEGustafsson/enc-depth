@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "WRECKS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 804, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 319284623, "FIDS": 5575, "LNAM": "02261307E58F15C7", "CATWRK": 2, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "20170402", "SORIND": "US,US,graph,GC-11409, GC-11409(CEF)" }, "geometry": { "type": "Point", "coordinates": [ -85.705542, 30.173187 ] } },
+{ "type": "Feature", "properties": { "RCID": 805, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 457691856, "FIDS": 5575, "LNAM": "02261B47D2D015C7", "CATWRK": 2, "QUASOU": [ "2" ], "WATLEV": 5, "SORDAT": "20220427", "SORIND": "US,US,reprt,8thCGD,LNM 17/22" }, "geometry": { "type": "Point", "coordinates": [ -85.70275, 30.1631389 ] } },
+{ "type": "Feature", "properties": { "RCID": 806, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 97575795, "FIDS": 5575, "LNAM": "022605D0E37315C7", "CATWRK": 2, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "20170402", "SORIND": "US,US,graph,GC-11410, DD-30045(CEF)" }, "geometry": { "type": "Point", "coordinates": [ -85.656455, 30.157262 ] } },
+{ "type": "Feature", "properties": { "RCID": 807, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 19795854, "FIDS": 5575, "LNAM": "0226012E0F8E15C7", "CATWRK": 2, "EXPSOU": 1, "QUASOU": [ "6" ], "VALSOU": 2.7, "WATLEV": 3, "SORDAT": "20140713", "SORIND": "US,US,graph,DD-26416" }, "geometry": { "type": "Point", "coordinates": [ -85.7194389, 30.176475 ] } },
+{ "type": "Feature", "properties": { "RCID": 808, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 33002232, "FIDS": 5575, "LNAM": "022601F792F815C7", "CATWRK": 2, "EXPSOU": 1, "QUASOU": [ "6" ], "VALSOU": 8.2, "WATLEV": 3, "SORDAT": "201509", "SORIND": "US,US,graph,Chart 11391" }, "geometry": { "type": "Point", "coordinates": [ -85.7070572, 30.1665228 ] } },
+{ "type": "Feature", "properties": { "RCID": 809, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": -1842737985, "FIDS": 712, "LNAM": "0226922A0CBF02C8", "CATWRK": 5, "WATLEV": 1, "INFORM": "Two partially submerged barges at the same location.", "SORDAT": "20251008", "SORIND": "US,US,reprt,8thCGD,LNM 41/25" }, "geometry": { "type": "Point", "coordinates": [ -85.7066667, 30.1977778 ] } }
+]
+}

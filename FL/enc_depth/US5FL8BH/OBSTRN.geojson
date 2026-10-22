@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "OBSTRN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 2, "PRIM": 3, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 902456325, "FIDS": 8528, "LNAM": "022635CA64052150", "CATOBS": 5, "EXPSOU": 1, "OBJNAM": "FA", "QUASOU": [ "7" ], "VALSOU": 15.2, "WATLEV": 3, "SORDAT": "200504", "SORIND": "US,US,graph,Chart 11503" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -81.225, 30.6394521 ], [ -81.2189677, 30.6394026 ], [ -81.2189079, 30.6416667 ], [ -81.21912, 30.642188 ], [ -81.2242329, 30.6422401 ], [ -81.225, 30.6422479 ], [ -81.225, 30.6416667 ], [ -81.225, 30.6394521 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 3, "PRIM": 3, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 476789097, "FIDS": 8528, "LNAM": "02261C6B39692150", "CATOBS": 5, "EXPSOU": 1, "OBJNAM": "FB", "QUASOU": [ "7" ], "VALSOU": 15.2, "WATLEV": 3, "INFORM": "The buoys marking these fish havens are not charted", "SORDAT": "20010602", "SORIND": "US,US,graph,Chart 11502" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -81.157751, 30.656901 ], [ -81.1577098, 30.6583011 ], [ -81.151153, 30.658211 ], [ -81.151153, 30.655326 ], [ -81.1511422, 30.6551795 ], [ -81.1514829, 30.6551847 ], [ -81.1557019, 30.6552494 ], [ -81.1561748, 30.6552566 ], [ -81.157767, 30.6553706 ], [ -81.157751, 30.656901 ] ] ] } }
+]
+}

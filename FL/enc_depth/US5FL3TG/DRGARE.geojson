@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DRGARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 187, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 776372453, "FIDS": 7396, "LNAM": "02262E4680E51CE4", "DRVAL1": 2.7, "OBJNAM": "Gulf Intracoastal Waterway - Lemon Bay", "QUASOU": [ "11" ], "INFORM": "Project depth only. Consult the U.S. Army Corps of Engineers for controlling depths and U.S. Coast Guard Local Notice to Mariners for other navigation hazards or restrictions.", "SORDAT": "20220503", "SORIND": "US,US,reprt,L-119-2022" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -82.4028118, 27.0 ], [ -82.4026018, 27.0 ], [ -82.406451, 27.0068873 ], [ -82.409105, 27.0105326 ], [ -82.4098436, 27.0115472 ], [ -82.4098561, 27.0115643 ], [ -82.4099213, 27.0116539 ], [ -82.4100239, 27.0117949 ], [ -82.4100465, 27.0118259 ], [ -82.4107915, 27.012851 ], [ -82.4210937, 27.0271663 ], [ -82.425, 27.0339973 ], [ -82.425, 27.0336232 ], [ -82.425, 27.0333744 ], [ -82.4243472, 27.0322308 ], [ -82.4213721, 27.0270278 ], [ -82.4110529, 27.0127028 ], [ -82.410312, 27.0116819 ], [ -82.4103094, 27.0116783 ], [ -82.4102409, 27.011584 ], [ -82.4101848, 27.0115067 ], [ -82.4101788, 27.0114984 ], [ -82.4101194, 27.0114165 ], [ -82.4101033, 27.0113943 ], [ -82.4093691, 27.0103828 ], [ -82.4070342, 27.0071657 ], [ -82.4030242, 27.0 ], [ -82.4028118, 27.0 ] ] ] } }
+]
+}

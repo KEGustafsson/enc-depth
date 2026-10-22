@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DRGARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 144, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 175274837, "FIDS": 8684, "LNAM": "02260A727B5521EC", "DRVAL1": 3.6, "OBJNAM": "West Bay 2 (GIWW)", "QUASOU": [ "11" ], "INFORM": "Project depth is 3.6 meters/12 feet from Carrabelle, FL to Brownsville, TX. Consult the U.S. Army Corps of Engineers for controlling depths and U.S. Coast Guard Local Notice to Mariners for other navigation hazards or restrictions.", "SORDAT": "20170713", "SORIND": "US,US,reprt,L-679-2017" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -85.8, 30.2635862 ], [ -85.780054, 30.262054 ], [ -85.7800538, 30.2620562 ], [ -85.7800453, 30.2621396 ], [ -85.7800451, 30.2621418 ], [ -85.7800365, 30.2622252 ], [ -85.7800364, 30.2622274 ], [ -85.7800278, 30.2623108 ], [ -85.7800276, 30.262313 ], [ -85.7800192, 30.2623964 ], [ -85.7999023, 30.2639238 ], [ -85.8, 30.2639313 ], [ -85.8, 30.263845 ], [ -85.8, 30.2637587 ], [ -85.8, 30.2636944 ], [ -85.8, 30.2636725 ], [ -85.8, 30.2635862 ] ] ] } }
+]
+}

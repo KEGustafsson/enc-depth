@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DRGARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 47, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 718667886, "FIDS": 29896, "LNAM": "02262AD6006E74C8", "DRVAL1": 2.2, "OBJNAM": "VEHICLE ASSEMBLY TURNING BASIN", "QUASOU": [ "10" ], "SORDAT": "20250611", "SORIND": "US,US,graph,DD-43934" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -80.6437366, 28.5821006 ], [ -80.6422236, 28.582423 ], [ -80.6402866, 28.5851848 ], [ -80.6404431, 28.5854997 ], [ -80.6418294, 28.5849629 ], [ -80.6419593, 28.5850337 ], [ -80.6430907, 28.5856535 ], [ -80.6446067, 28.5853365 ], [ -80.6454246, 28.5841661 ], [ -80.6453567, 28.5839363 ], [ -80.6461235, 28.583793 ], [ -80.6458205, 28.5826641 ], [ -80.6450625, 28.5828226 ], [ -80.6437366, 28.5821006 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 48, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": -1424883484, "FIDS": 29896, "LNAM": "0226AB1200E474C8", "DRVAL1": 2.5, "OBJNAM": "BANANA RIVER CUT-20", "QUASOU": [ "10" ], "SORDAT": "20250611", "SORIND": "US,US,graph,DD-43934" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -80.6402866, 28.5851848 ], [ -80.625, 28.5911016 ], [ -80.625, 28.5914769 ], [ -80.6404431, 28.5854997 ], [ -80.6402866, 28.5851848 ] ] ] } }
+]
+}

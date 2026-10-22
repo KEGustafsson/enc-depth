@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "OBSTRN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 23, "PRIM": 3, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 97787162, "FIDS": 7372, "LNAM": "022605D41D1A1CCC", "CATOBS": 5, "EXPSOU": 2, "QUASOU": [ "7" ], "VALSOU": 16.4, "WATLEV": 3, "SORDAT": "201302", "SORIND": "US,US,graph,Chart 11441" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -81.7684493, 24.4623099 ], [ -81.7679303, 24.4623014 ], [ -81.7679164, 24.4618052 ], [ -81.7684539, 24.4618179 ], [ -81.7684493, 24.4623099 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 24, "PRIM": 3, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 28667504, "FIDS": 7372, "LNAM": "022601B56E701CCC", "CATOBS": 5, "QUASOU": [ "7" ], "VALSOU": 22.8, "WATLEV": 3, "SORDAT": "200312", "SORIND": "US,US,graph,Chart 11441" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -81.7764338, 24.4580297 ], [ -81.7746553, 24.4580254 ], [ -81.7734476, 24.4580808 ], [ -81.7688241, 24.4580413 ], [ -81.7671684, 24.458041 ], [ -81.7571772, 24.4580395 ], [ -81.7571491, 24.457044 ], [ -81.7571338, 24.4554537 ], [ -81.7570909, 24.4509996 ], [ -81.7604287, 24.4509259 ], [ -81.762327, 24.450931 ], [ -81.7642259, 24.4509361 ], [ -81.7755831, 24.4509603 ], [ -81.7783234, 24.4509594 ], [ -81.7837672, 24.4509577 ], [ -81.784201, 24.4509891 ], [ -81.784157, 24.458152 ], [ -81.7819569, 24.4581425 ], [ -81.7807869, 24.4581238 ], [ -81.7794288, 24.458102 ], [ -81.7768685, 24.4580308 ], [ -81.7764338, 24.4580297 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 25, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 577273009, "FIDS": 7372, "LNAM": "022622687CB11CCC", "EXPSOU": 2, "QUASOU": [ "6" ], "VALSOU": 4.5, "WATLEV": 3, "SORDAT": "200311", "SORIND": "US,US,graph,Chart 11447" }, "geometry": { "type": "Point", "coordinates": [ -81.8034154, 24.5095402 ] } },
+{ "type": "Feature", "properties": { "RCID": 26, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 552253333, "FIDS": 7372, "LNAM": "022620EAB7951CCC", "CATOBS": 1, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "200312", "SORIND": "US,US,graph,Chart 11441" }, "geometry": { "type": "Point", "coordinates": [ -81.7631516, 24.5179004 ] } }
+]
+}

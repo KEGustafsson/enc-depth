@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "UNSARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 375, "PRIM": 3, "GRUP": 1, "OBJL": 154, "RVER": 1, "AGEN": 550, "FIDN": 797912042, "FIDS": 5516, "LNAM": "02262F8F2BEA158C", "SORDAT": "20000226", "SORIND": "US,US,graph,Chart 11415" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -82.6763239, 27.6359429 ], [ -82.677728, 27.6353801 ], [ -82.6782999, 27.6365871 ], [ -82.676956, 27.637191 ], [ -82.6767079, 27.6367013 ], [ -82.6763681, 27.6360302 ], [ -82.6763239, 27.6359429 ] ] ] } }
+]
+}

@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "WRECKS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 353, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 334052452, "FIDS": 7372, "LNAM": "022613E93C641CCC", "CATWRK": 5, "WATLEV": 2, "SORDAT": "201410", "SORIND": "US,US,graph,Chart 11481" }, "geometry": { "type": "Point", "coordinates": [ -80.6471739, 28.3139148 ] } },
+{ "type": "Feature", "properties": { "RCID": 354, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 984655622, "FIDS": 7372, "LNAM": "02263AB0A7061CCC", "CATWRK": 2, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "200504", "SORIND": "US,US,graph,Chart 11485" }, "geometry": { "type": "Point", "coordinates": [ -80.688002, 28.310523 ] } },
+{ "type": "Feature", "properties": { "RCID": 355, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 72842948, "FIDS": 7372, "LNAM": "022604577EC41CCC", "CATWRK": 5, "WATLEV": 2, "SORDAT": "201410", "SORIND": "US,US,graph,Chart 11481" }, "geometry": { "type": "Point", "coordinates": [ -80.6580868, 28.3229461 ] } },
+{ "type": "Feature", "properties": { "RCID": 356, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 843812522, "FIDS": 7372, "LNAM": "0226324B8EAA1CCC", "CATWRK": 5, "WATLEV": 2, "SORDAT": "200504", "SORIND": "US,US,graph,Chart 11485" }, "geometry": { "type": "Point", "coordinates": [ -80.698533, 28.29769 ] } },
+{ "type": "Feature", "properties": { "RCID": 357, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 627148960, "FIDS": 7372, "LNAM": "0226256188A01CCC", "CATWRK": 5, "WATLEV": 2, "SORDAT": "201410", "SORIND": "US,US,graph,Chart 11481" }, "geometry": { "type": "Point", "coordinates": [ -80.6447776, 28.331405 ] } },
+{ "type": "Feature", "properties": { "RCID": 358, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 956423885, "FIDS": 7372, "LNAM": "02263901DECD1CCC", "CATWRK": 5, "STATUS": [ "18" ], "WATLEV": 2, "SORDAT": "20051228", "SORIND": "US,US,graph,DB-12073-obs" }, "geometry": { "type": "Point", "coordinates": [ -80.6445111, 28.3415611 ] } },
+{ "type": "Feature", "properties": { "RCID": 359, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 82893630, "FIDS": 7372, "LNAM": "022604F0DB3E1CCC", "CATWRK": 5, "WATLEV": 2, "SORDAT": "201410", "SORIND": "US,US,graph,Chart 11481" }, "geometry": { "type": "Point", "coordinates": [ -80.657589, 28.347772 ] } },
+{ "type": "Feature", "properties": { "RCID": 360, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 949413821, "FIDS": 7372, "LNAM": "02263896E7BD1CCC", "CATWRK": 5, "WATLEV": 2, "SORDAT": "200504", "SORIND": "US,US,graph,Chart 11485" }, "geometry": { "type": "Point", "coordinates": [ -80.683001, 28.341697 ] } },
+{ "type": "Feature", "properties": { "RCID": 361, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 264722457, "FIDS": 7372, "LNAM": "02260FC758191CCC", "CATWRK": 5, "WATLEV": 2, "SORDAT": "200504", "SORIND": "US,US,graph,Chart 11485" }, "geometry": { "type": "Point", "coordinates": [ -80.697418, 28.333347 ] } }
+]
+}

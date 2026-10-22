@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "OBSTRN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 139, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 92343538, "FIDS": 8684, "LNAM": "022605810CF221EC", "CATOBS": 1, "QUASOU": [ "2" ], "WATLEV": 3, "INFORM": "Piles", "SORDAT": "200504", "SORIND": "US,US,graph,Chart 11485" }, "geometry": { "type": "Point", "coordinates": [ -81.331195, 29.997033 ] } },
+{ "type": "Feature", "properties": { "RCID": 140, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 645440058, "FIDS": 8684, "LNAM": "02262678A23A21EC", "CATOBS": 1, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "200504", "SORIND": "US,US,graph,Chart 11485" }, "geometry": { "type": "Point", "coordinates": [ -81.326557, 29.984961 ] } }
+]
+}

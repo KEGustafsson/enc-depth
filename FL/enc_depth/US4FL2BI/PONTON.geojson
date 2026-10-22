@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "PONTON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 1431, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": 226512765, "FIDS": 4305, "LNAM": "02260D804F7D10D1", "INFORM": "Floating barrier, boom", "SCAMIN": 89999, "SORDAT": "20210919", "SORIND": "US,US,graph,GC-11759" }, "geometry": { "type": "LineString", "coordinates": [ [ -80.1240284, 26.083262 ], [ -80.124092, 26.0832436 ], [ -80.1241736, 26.0832942 ], [ -80.1242391, 26.083381 ], [ -80.1243287, 26.083574 ], [ -80.1244222, 26.083812 ], [ -80.1245675, 26.0839929 ] ] } }
+]
+}

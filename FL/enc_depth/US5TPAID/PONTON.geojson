@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "PONTON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 1426, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": 621496680, "FIDS": 12345, "LNAM": "0226250B49683039", "SCAMIN": 44999, "SORDAT": "20160213", "SORIND": "US,US,graph,GC-11378" }, "geometry": { "type": "LineString", "coordinates": [ [ -82.8190244, 28.031563 ], [ -82.8190672, 28.0316072 ], [ -82.819152, 28.0317121 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 1427, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": 993947811, "FIDS": 12345, "LNAM": "02263B3E70A33039", "SCAMIN": 44999, "SORDAT": "20160213", "SORIND": "US,US,graph,GC-11378" }, "geometry": { "type": "LineString", "coordinates": [ [ -82.8196149, 28.0320017 ], [ -82.819445, 28.0321161 ], [ -82.8191104, 28.0323345 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 1428, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": 23202674, "FIDS": 12345, "LNAM": "022601620B723039", "SCAMIN": 44999, "SORDAT": "20160213", "SORIND": "US,US,graph,GC-11378" }, "geometry": { "type": "LineString", "coordinates": [ [ -82.8198371, 28.0322664 ], [ -82.8197635, 28.0323203 ], [ -82.8192562, 28.0326475 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 1429, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": 32842046, "FIDS": 12345, "LNAM": "022601F5213E3039", "SCAMIN": 44999, "SORDAT": "20160213", "SORIND": "US,US,graph,GC-11378" }, "geometry": { "type": "LineString", "coordinates": [ [ -82.8200366, 28.0325041 ], [ -82.8199719, 28.0325514 ], [ -82.8194538, 28.0328875 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 1430, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": 284521614, "FIDS": 12345, "LNAM": "022610F5748E3039", "SCAMIN": 44999, "SORDAT": "20160213", "SORIND": "US,US,graph,GC-11378" }, "geometry": { "type": "LineString", "coordinates": [ [ -82.8202382, 28.0327441 ], [ -82.8201591, 28.0327964 ], [ -82.8196527, 28.0331252 ] ] } }
+]
+}

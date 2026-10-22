@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WRECKS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 18, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 24380509, "FIDS": 7396, "LNAM": "02260174045D1CE4", "CATWRK": 1, "EXPSOU": 1, "OBJNAM": "Jesula II", "QUASOU": [ "2" ], "WATLEV": 3, "SCAMIN": 29999, "SORDAT": "19910416", "SORIND": "US,US,reprt,7thCGD,LNM 17/91" }, "geometry": { "type": "Point", "coordinates": [ -80.0499448, 25.7904465 ] } },
+{ "type": "Feature", "properties": { "RCID": 19, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 860211526, "FIDS": 7396, "LNAM": "02263345C9461CE4", "CATWRK": 1, "EXPSOU": 1, "QUASOU": [ "2" ], "WATLEV": 3, "SCAMIN": 29999, "SORDAT": "200508", "SORIND": "US,US,graph,Chart 11466" }, "geometry": { "type": "Point", "coordinates": [ -80.0491528, 25.7837972 ] } },
+{ "type": "Feature", "properties": { "RCID": 20, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 766211810, "FIDS": 7396, "LNAM": "02262DAB76E21CE4", "CATWRK": 1, "EXPSOU": 1, "QUASOU": [ "6" ], "VALSOU": 39.3, "WATLEV": 3, "SCAMIN": 29999, "SORDAT": "201403", "SORIND": "US,US,graph,Chart 11468" }, "geometry": { "type": "Point", "coordinates": [ -80.0818209, 25.7764994 ] } }
+]
+}

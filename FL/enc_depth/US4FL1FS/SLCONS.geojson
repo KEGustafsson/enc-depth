@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SLCONS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 10, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 739996179, "FIDS": 8684, "LNAM": "02262C1B721321EC", "CATSLC": 4, "OBJNAM": "West Jetty", "WATLEV": 3, "SORDAT": "20111128", "SORIND": "US,US,graph,Chart 11442" }, "geometry": { "type": "LineString", "coordinates": [ [ -81.9038106, 24.6397748 ], [ -81.9037895, 24.639642 ], [ -81.90366, 24.6388252 ], [ -81.9033508, 24.6368754 ], [ -81.9028712, 24.634292 ], [ -81.9025835, 24.6327192 ], [ -81.9020081, 24.6318735 ], [ -81.9017451, 24.631584 ], [ -81.9014552, 24.631265 ], [ -81.9005243, 24.6300532 ], [ -81.9, 24.6293323 ] ] } }
+]
+}

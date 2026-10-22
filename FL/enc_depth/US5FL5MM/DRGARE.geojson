@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DRGARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 129, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 2, "AGEN": 550, "FIDN": 495393342, "FIDS": 8648, "LNAM": "02261D871A3E21C8", "DRVAL1": 1.8, "OBJNAM": "Deering Bay Channel", "QUASOU": [ "11" ], "SORDAT": "20250508", "SORIND": "US,US,reprt,L-229-2025" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -80.275002, 25.614152 ], [ -80.2823616, 25.6239595 ], [ -80.2865771, 25.6295771 ], [ -80.287094, 25.630266 ], [ -80.287304, 25.630148 ], [ -80.2867889, 25.6294584 ], [ -80.2825301, 25.6237573 ], [ -80.282311, 25.623464 ], [ -80.275128, 25.613844 ], [ -80.275099, 25.613804 ], [ -80.275002, 25.614152 ] ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DRGARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 50, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 499739963, "FIDS": 7372, "LNAM": "02261DC96D3B1CCC", "DRVAL1": 1.8, "OBJNAM": "Cedar Keys Harbor Channel", "QUASOU": [ "10" ], "INFORM": "The controlling depth on centerline from the entrance to the main ship channel.", "SORDAT": "20160525", "SORIND": "US,US,graph,DD-28053" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -83.1, 29.1393482 ], [ -83.1, 29.1395985 ], [ -83.1025844, 29.1399071 ], [ -83.1059724, 29.1399757 ], [ -83.1073798, 29.1400084 ], [ -83.10805, 29.1400157 ], [ -83.1098622, 29.1400334 ], [ -83.1185215, 29.1401237 ], [ -83.1185256, 29.1398096 ], [ -83.1131925, 29.139763 ], [ -83.1101027, 29.1397361 ], [ -83.1028228, 29.1396725 ], [ -83.1003792, 29.1393918 ], [ -83.1, 29.1393482 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 51, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 388466990, "FIDS": 7372, "LNAM": "02261727892E1CCC", "DRVAL1": 0.9, "OBJNAM": "Derrick Key Gap", "QUASOU": [ "11" ], "INFORM": "Depth for a mid-width of 15.2 meters/50 feet", "SORDAT": "1977", "SORIND": "US,US,graph,Chart 11408" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -83.1, 29.174053 ], [ -83.1, 29.1746004 ], [ -83.1001502, 29.1744146 ], [ -83.1002941, 29.1742342 ], [ -83.1, 29.174053 ] ] ] } }
+]
+}

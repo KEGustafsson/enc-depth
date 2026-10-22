@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "PONTON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 785, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": -2125954560, "FIDS": 41680, "LNAM": "022681488200A2D0", "SCAMIN": 89999, "SORDAT": "20141022", "SORIND": "US,US,graph,GC-11291" }, "geometry": { "type": "LineString", "coordinates": [ [ -81.013892, 29.2048652 ], [ -81.0150901, 29.2043894 ], [ -81.0151469, 29.2043668 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 786, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": -1642582487, "FIDS": 41680, "LNAM": "02269E182E29A2D0", "SCAMIN": 89999, "SORDAT": "20141022", "SORIND": "US,US,graph,GC-11291" }, "geometry": { "type": "LineString", "coordinates": [ [ -81.0132446, 29.2035972 ], [ -81.0145327, 29.2030823 ], [ -81.014671, 29.203027 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 787, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": -524933337, "FIDS": 41680, "LNAM": "0226E0B62727A2D0", "SCAMIN": 89999, "SORDAT": "20141022", "SORIND": "US,US,graph,GC-11291" }, "geometry": { "type": "LineString", "coordinates": [ [ -81.0153218, 29.2047569 ], [ -81.0152597, 29.2047816 ], [ -81.0143433, 29.205145 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 788, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": 947200281, "FIDS": 41680, "LNAM": "022638752119A2D0", "SCAMIN": 89999, "SORDAT": "20141022", "SORIND": "US,US,graph,GC-11291" }, "geometry": { "type": "LineString", "coordinates": [ [ -81.0149681, 29.2039422 ], [ -81.0148898, 29.2039734 ], [ -81.013681, 29.2044543 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 789, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": 1215020196, "FIDS": 41680, "LNAM": "0226486BBCA4A2D0", "SCAMIN": 89999, "SORDAT": "20141022", "SORIND": "US,US,graph,GC-11291" }, "geometry": { "type": "LineString", "coordinates": [ [ -81.0147965, 29.2034995 ], [ -81.014741, 29.2035216 ], [ -81.013486, 29.2040227 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 790, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": 1200679846, "FIDS": 41680, "LNAM": "02264790EBA6A2D0", "SCAMIN": 89999, "SORDAT": "20141022", "SORIND": "US,US,graph,GC-11291" }, "geometry": { "type": "LineString", "coordinates": [ [ -81.0145479, 29.2024878 ], [ -81.0144237, 29.2025377 ], [ -81.0130034, 29.2031079 ] ] } }
+]
+}

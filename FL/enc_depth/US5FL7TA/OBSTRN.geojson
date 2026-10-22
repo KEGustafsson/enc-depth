@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "OBSTRN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 268, "PRIM": 2, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 60135842, "FIDS": 5547, "LNAM": "0226039599A215AB", "WATLEV": 3, "INFORM": "Fence", "SORDAT": "20160120", "SORIND": "US,US,graph,GC-11333, GC-11333(CEF)" }, "geometry": { "type": "LineString", "coordinates": [ [ -81.691848, 30.0083189 ], [ -81.6901823, 30.0077189 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 270, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 42808827, "FIDS": 5547, "LNAM": "0226028D35FB15AB", "CATOBS": 1, "CONDTN": 2, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "20160120", "SORIND": "US,US,graph,GC-11333, GC-11333(CEF)" }, "geometry": { "type": "Point", "coordinates": [ -81.7047564, 30.0450569 ] } },
+{ "type": "Feature", "properties": { "RCID": 271, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 766767869, "FIDS": 5547, "LNAM": "02262DB3F2FD15AB", "EXPSOU": 1, "QUASOU": [ "6" ], "VALSOU": 6.7, "WATLEV": 3, "SORDAT": "20120503", "SORIND": "US,US,graph,Chart 11492" }, "geometry": { "type": "Point", "coordinates": [ -81.687195, 30.025095 ] } }
+]
+}

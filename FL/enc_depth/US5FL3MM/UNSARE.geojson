@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "UNSARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 415, "PRIM": 3, "GRUP": 1, "OBJL": 154, "RVER": 1, "AGEN": 550, "FIDN": 944331143, "FIDS": 7396, "LNAM": "0226384959871CE4", "SORDAT": "201109", "SORIND": "US,US,graph,Chart 11427" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -81.9645436, 26.5340105 ], [ -81.9649615, 26.5352723 ], [ -81.9663344, 26.534977 ], [ -81.9660659, 26.5337018 ], [ -81.9645436, 26.5340105 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 416, "PRIM": 3, "GRUP": 1, "OBJL": 154, "RVER": 1, "AGEN": 550, "FIDN": 782884234, "FIDS": 7396, "LNAM": "02262EA9DD8A1CE4", "SORDAT": "201109", "SORIND": "US,US,graph,Chart 11427" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -81.9591445, 26.5298153 ], [ -81.958968, 26.528923 ], [ -81.9588775, 26.5284826 ], [ -81.9573103, 26.5287175 ], [ -81.9575883, 26.5301424 ], [ -81.9591445, 26.5298153 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 417, "PRIM": 3, "GRUP": 1, "OBJL": 154, "RVER": 1, "AGEN": 550, "FIDN": 610197663, "FIDS": 7396, "LNAM": "0226245EE09F1CE4", "SORDAT": "201109", "SORIND": "US,US,graph,Chart 11427" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -81.9706921, 26.5329904 ], [ -81.9721098, 26.5328024 ], [ -81.9723485, 26.5340373 ], [ -81.970901, 26.5342522 ], [ -81.9706921, 26.5329904 ] ] ] } }
+]
+}

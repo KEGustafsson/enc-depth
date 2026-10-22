@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "OBSTRN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 130, "PRIM": 3, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 555965161, "FIDS": 5516, "LNAM": "022621235AE9158C", "QUASOU": [ "2" ], "WATLEV": 3, "INFORM": "Numerous piles and pipes in this area.", "SORDAT": "20000226", "SORIND": "US,US,graph,Chart 11416" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -82.5612319, 27.6436874 ], [ -82.5608366, 27.6438752 ], [ -82.5600856, 27.6438698 ], [ -82.5599646, 27.6440683 ], [ -82.5618096, 27.6449728 ], [ -82.5632105, 27.646408 ], [ -82.5637701, 27.6466481 ], [ -82.5642377, 27.6465849 ], [ -82.5645536, 27.6461372 ], [ -82.565301, 27.6443084 ], [ -82.565254, 27.6435484 ], [ -82.5633152, 27.6445684 ], [ -82.5626021, 27.6444745 ], [ -82.5612319, 27.6436874 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 131, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 227665070, "FIDS": 5516, "LNAM": "02260D91E4AE158C", "CATOBS": 1, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "20050224", "SORIND": "US,US,graph,BP-186539" }, "geometry": { "type": "Point", "coordinates": [ -82.5664654, 27.6620632 ] } },
+{ "type": "Feature", "properties": { "RCID": 132, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 400875377, "FIDS": 5516, "LNAM": "022617E4DF71158C", "CATOBS": 1, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "20050224", "SORIND": "US,US,graph,BP-186539" }, "geometry": { "type": "Point", "coordinates": [ -82.5660971, 27.6615686 ] } },
+{ "type": "Feature", "properties": { "RCID": 133, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 410759072, "FIDS": 5516, "LNAM": "0226187BAFA0158C", "CATOBS": 1, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "20050224", "SORIND": "US,US,graph,BP-186539" }, "geometry": { "type": "Point", "coordinates": [ -82.5658227, 27.6610992 ] } }
+]
+}

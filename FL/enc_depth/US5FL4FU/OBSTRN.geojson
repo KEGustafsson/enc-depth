@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "OBSTRN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 336, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 997955113, "FIDS": 8648, "LNAM": "02263B7B962921C8", "CATOBS": 1, "QUASOU": [ "2" ], "WATLEV": 4, "SORDAT": "19971108", "SORIND": "US,US,graph,Chart 11448" }, "geometry": { "type": "Point", "coordinates": [ -81.590545, 24.70783 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "OBSTRN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 58, "PRIM": 3, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 575950233, "FIDS": 7396, "LNAM": "022622544D991CE4", "CATOBS": 1, "WATLEV": 1, "INFORM": "Pier ruins.", "SORDAT": "20150323", "SORIND": "US,US,graph,GC-11471" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -82.8714872, 24.6293922 ], [ -82.8712544, 24.6293868 ], [ -82.8711865, 24.6293853 ], [ -82.8711499, 24.6302182 ], [ -82.8712802, 24.6302221 ], [ -82.8712957, 24.6302226 ], [ -82.8713539, 24.6294703 ], [ -82.8714739, 24.629473 ], [ -82.8714872, 24.6293922 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 59, "PRIM": 3, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 214969525, "FIDS": 7396, "LNAM": "02260CD02CB51CE4", "CATOBS": 1, "WATLEV": 1, "INFORM": "Pier ruins.", "SORDAT": "20150323", "SORIND": "US,US,graph,GC-11471" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -82.872663, 24.6263153 ], [ -82.8731779, 24.6259051 ], [ -82.8732734, 24.6260115 ], [ -82.8726268, 24.626528 ], [ -82.8725917, 24.6265024 ], [ -82.872623, 24.6264718 ], [ -82.8725866, 24.6264287 ], [ -82.8726925, 24.6263452 ], [ -82.872663, 24.6263153 ] ] ] } }
+]
+}

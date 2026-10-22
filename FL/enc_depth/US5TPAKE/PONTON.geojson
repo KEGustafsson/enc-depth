@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "PONTON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 1918, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": 125024671, "FIDS": 5516, "LNAM": "02260773B99F158C", "SCAMIN": 44999, "SORDAT": "20161120", "SORIND": "US,US,graph,GC-11327" }, "geometry": { "type": "LineString", "coordinates": [ [ -82.788133, 28.1781149 ], [ -82.7879478, 28.1771864 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 1919, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": 652945916, "FIDS": 12345, "LNAM": "022626EB29FC3039", "SCAMIN": 44999, "SORDAT": "20160213", "SORIND": "US,US,graph,GC-11378" }, "geometry": { "type": "LineString", "coordinates": [ [ -82.7574754, 28.1583547 ], [ -82.7572053, 28.1583569 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 1920, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": 916351952, "FIDS": 12345, "LNAM": "0226369E6BD03039", "SCAMIN": 44999, "SORDAT": "20160213", "SORIND": "US,US,graph,GC-11378" }, "geometry": { "type": "LineString", "coordinates": [ [ -82.7572094, 28.1584082 ], [ -82.7572053, 28.1583569 ], [ -82.7572088, 28.1581708 ] ] } }
+]
+}

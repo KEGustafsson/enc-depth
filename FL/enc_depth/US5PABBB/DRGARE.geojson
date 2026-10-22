@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "DRGARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 13, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 38196604, "FIDS": 5547, "LNAM": "02260246D57C15AB", "DRVAL1": 11.1, "OBJNAM": "Entrance Channel East (35) LOQ", "SORDAT": "20250529", "SORIND": "US,US,reprt,DD-42231" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -80.025, 26.7716906 ], [ -80.0199165, 26.7715754 ], [ -80.0186603, 26.7715469 ], [ -80.0186526, 26.7718219 ], [ -80.019913, 26.7718505 ], [ -80.025, 26.7719657 ], [ -80.025, 26.7716906 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 14, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 689728977, "FIDS": 5547, "LNAM": "0226291C6DD115AB", "DRVAL1": 11.1, "OBJNAM": "Entrance Channel East (35) LIQ", "SORDAT": "20250529", "SORIND": "US,US,reprt,DD-42231" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -80.0186526, 26.7718219 ], [ -80.0186448, 26.7720969 ], [ -80.0198743, 26.7721248 ], [ -80.025, 26.7722409 ], [ -80.025, 26.7719657 ], [ -80.019913, 26.7718505 ], [ -80.0186526, 26.7718219 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 15, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 702524240, "FIDS": 5547, "LNAM": "022629DFAB5015AB", "DRVAL1": 11.4, "OBJNAM": "Entrance Channel East (35) ROQ", "SORDAT": "20250529", "SORIND": "US,US,reprt,DD-42231" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -80.025, 26.772516 ], [ -80.0198388, 26.7723991 ], [ -80.0186397, 26.772372 ], [ -80.0186371, 26.7723719 ], [ -80.0186293, 26.7726469 ], [ -80.0198111, 26.7726737 ], [ -80.025, 26.7727912 ], [ -80.025, 26.772516 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 16, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 575277834, "FIDS": 5547, "LNAM": "0226224A0B0A15AB", "DRVAL1": 11.3, "OBJNAM": "Entrance Channel East (35) RIQ", "SORDAT": "20250529", "SORIND": "US,US,reprt,DD-42231" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -80.0186448, 26.7720969 ], [ -80.0186371, 26.7723719 ], [ -80.0186397, 26.772372 ], [ -80.0198388, 26.7723991 ], [ -80.025, 26.772516 ], [ -80.025, 26.7722409 ], [ -80.0198743, 26.7721248 ], [ -80.0186448, 26.7720969 ] ] ] } }
+]
+}

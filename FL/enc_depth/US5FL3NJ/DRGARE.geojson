@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DRGARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 299, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 907874603, "FIDS": 5535, "LNAM": "0226361D112B159F", "DRVAL1": 2.7, "OBJNAM": "Gulf Intracoastal Waterway", "QUASOU": [ "11" ], "INFORM": "Project depth only. The project depth is 2.7 meters/ 9 feet from Caloosahatchee River, FL. to Anclote River, FL. Consult the U.S. Army Corps of Engineers for controlling depths and U.S. Coast Guard Local Notice to Mariners for other navigation hazards or restrictions.", "SORDAT": "20170202", "SORIND": "US,US,reprt,L-297-2017" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -82.1681535, 26.55 ], [ -82.1679552, 26.55 ], [ -82.1943526, 26.592526 ], [ -82.1953315, 26.5942218 ], [ -82.199485, 26.6039744 ], [ -82.1997478, 26.6045914 ], [ -82.2, 26.6051835 ], [ -82.2, 26.6048566 ], [ -82.2, 26.6045932 ], [ -82.2, 26.6043307 ], [ -82.1952973, 26.593157 ], [ -82.1870899, 26.5802767 ], [ -82.16833, 26.55 ], [ -82.1682181, 26.55 ], [ -82.1681535, 26.55 ] ] ] } }
+]
+}

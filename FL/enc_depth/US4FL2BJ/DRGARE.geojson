@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DRGARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 74, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 344415369, "FIDS": 4305, "LNAM": "022614875C8910D1", "DRVAL1": 13.7, "OBJNAM": "Port Everglades Entrance Channel", "QUASOU": [ "10" ], "INFORM": "Project depth, most features, including bathymetry, are omitted in this area. The minimal depiction of detail in this area does not support safe navigation; mariners should use a more appropriate navigational purpose.", "SORDAT": "20230614", "SORIND": "US,US,reprt,DD-38536" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -80.1, 26.0930087 ], [ -80.0990518, 26.0930151 ], [ -80.0926031, 26.0930586 ], [ -80.0902552, 26.0930744 ], [ -80.0897143, 26.0930781 ], [ -80.0897172, 26.0934219 ], [ -80.08972, 26.0937647 ], [ -80.08972, 26.0937658 ], [ -80.0897228, 26.0941097 ], [ -80.0897256, 26.0944536 ], [ -80.0897283, 26.0944535 ], [ -80.0902605, 26.0944499 ], [ -80.0923639, 26.0944358 ], [ -80.0947323, 26.0944198 ], [ -80.094745, 26.0944197 ], [ -80.0947464, 26.0944197 ], [ -80.0947474, 26.0944197 ], [ -80.1, 26.0943843 ], [ -80.1, 26.0936944 ], [ -80.1, 26.0930087 ] ] ] } }
+]
+}

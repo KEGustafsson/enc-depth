@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WRECKS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 24, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 795165696, "FIDS": 7303, "LNAM": "02262F6544001C87", "CATWRK": 4, "WATLEV": 4, "INFORM": "35 - 40 feet S/V", "SORDAT": "20130108", "SORIND": "US,US,reprt,8thCGD,LNM 02/13" }, "geometry": { "type": "Point", "coordinates": [ -87.0688889, 30.3527778 ] } },
+{ "type": "Feature", "properties": { "RCID": 25, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 127062336, "FIDS": 7303, "LNAM": "02260792D1401C87", "CATWRK": 2, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "20060711", "SORIND": "US,US,reprt,8thCGD,LNM 28/06" }, "geometry": { "type": "Point", "coordinates": [ -87.0642, 30.3661144 ] } }
+]
+}

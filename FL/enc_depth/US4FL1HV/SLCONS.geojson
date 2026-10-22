@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "SLCONS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 388, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 343239696, "FIDS": 2022, "LNAM": "022614756C1007E6", "CATSLC": 4, "WATLEV": 2, "SORDAT": "200503", "SORIND": "US,US,graph,Chart 11433" }, "geometry": { "type": "LineString", "coordinates": [ [ -81.155475, 25.3036888 ], [ -81.155447, 25.3041433 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 389, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 217661609, "FIDS": 2022, "LNAM": "02260CF940A907E6", "CATSLC": 4, "WATLEV": 2, "SORDAT": "200503", "SORIND": "US,US,graph,Chart 11433" }, "geometry": { "type": "LineString", "coordinates": [ [ -81.0601792, 25.274321 ], [ -81.0598577, 25.2747716 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 390, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 653678470, "FIDS": 2022, "LNAM": "022626F6578607E6", "CATSLC": 4, "WATLEV": 2, "SORDAT": "200503", "SORIND": "US,US,graph,Chart 11433" }, "geometry": { "type": "LineString", "coordinates": [ [ -81.0966929, 25.3243511 ], [ -81.096525, 25.323791 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 391, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 818665387, "FIDS": 2022, "LNAM": "022630CBD7AB07E6", "CATSLC": 4, "WATLEV": 2, "SORDAT": "200503", "SORIND": "US,US,graph,Chart 11433" }, "geometry": { "type": "LineString", "coordinates": [ [ -81.1624176, 25.2883089 ], [ -81.1627739, 25.2885035 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 392, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 691738264, "FIDS": 2022, "LNAM": "0226293B169807E6", "CATSLC": 4, "WATLEV": 2, "SORDAT": "201411", "SORIND": "US,US,graph,Chart 11432" }, "geometry": { "type": "LineString", "coordinates": [ [ -81.167678, 25.484821 ], [ -81.1673456, 25.4849501 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 393, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 303445591, "FIDS": 2022, "LNAM": "02261216365707E6", "CATSLC": 4, "WATLEV": 2, "SORDAT": "200503", "SORIND": "US,US,graph,Chart 11433" }, "geometry": { "type": "LineString", "coordinates": [ [ -81.0174611, 25.3856928 ], [ -81.0176354, 25.3859286 ] ] } }
+]
+}

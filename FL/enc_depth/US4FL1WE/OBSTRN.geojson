@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "OBSTRN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 1, "PRIM": 3, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 573844882, "FIDS": 7384, "LNAM": "022622342D921CD8", "CATOBS": 5, "EXPSOU": 2, "QUASOU": [ "7" ], "VALSOU": 25.6, "WATLEV": 3, "SORDAT": "200210", "SORIND": "US,US,graph,Chart 11360" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -86.4, 29.8087739 ], [ -86.378545, 29.8086935 ], [ -86.3782741, 29.8587739 ], [ -86.377624, 29.9789939 ], [ -86.3776027, 29.9829348 ], [ -86.4, 29.9830223 ], [ -86.4, 29.9716368 ], [ -86.4, 29.8087739 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 2, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 485183185, "FIDS": 7384, "LNAM": "02261CEB4ED11CD8", "EXPSOU": 2, "QUASOU": [ "9" ], "VALSOU": 11.8, "WATLEV": 3, "INFORM": "Buoy", "SORDAT": "20061118", "SORIND": "US,US,reprt,NM 46/06" }, "geometry": { "type": "Point", "coordinates": [ -86.25, 29.7666667 ] } }
+]
+}

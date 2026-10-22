@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DRGARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 37, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": -563814869, "FIDS": 41680, "LNAM": "0226DE64DE2BA2D0", "DRVAL1": 0.6, "OBJNAM": "Connecting Channel", "QUASOU": [ "10" ], "INFORM": "Depth for width of 30.4 meters/100 feet.", "SORDAT": "20241017", "SORIND": "US,US,reprt,DD-41145" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -85.0127708, 29.7 ], [ -85.0125634, 29.6873765 ], [ -85.0124804, 29.6823254 ], [ -85.0121655, 29.6823293 ], [ -85.0122632, 29.6882737 ], [ -85.0124558, 29.7 ], [ -85.0127708, 29.7 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 38, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 2, "AGEN": 550, "FIDN": 778611721, "FIDS": 8648, "LNAM": "02262E68AC0921C8", "DRVAL1": 1.6, "OBJNAM": "Apalachicola Bay - Reach 1", "QUASOU": [ "10" ], "SORDAT": "20260225", "SORIND": "US,US,reprt,DD-43486" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -84.975, 29.696725 ], [ -84.975, 29.6977928 ], [ -84.9754308, 29.7 ], [ -84.9755309, 29.7 ], [ -84.9756284, 29.7 ], [ -84.9756403, 29.7 ], [ -84.9758302, 29.7 ], [ -84.975, 29.6957469 ], [ -84.975, 29.696725 ] ] ] } }
+]
+}

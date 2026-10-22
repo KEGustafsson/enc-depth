@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WRECKS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 570, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 633510675, "FIDS": 4305, "LNAM": "022625C29B1310D1", "CATWRK": 5, "WATLEV": 2, "INFORM": "Sunk vessel now completely submerged just north of ono island south of intercostal orange beach .al", "SORDAT": "20070805", "SORIND": "US,US,graph,DB-16360-obs" }, "geometry": { "type": "Point", "coordinates": [ -87.4838667, 30.3027667 ] } },
+{ "type": "Feature", "properties": { "RCID": 571, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 200525489, "FIDS": 4305, "LNAM": "02260BF3C6B110D1", "CATWRK": 2, "EXPSOU": 1, "QUASOU": [ "6" ], "VALSOU": 4.2, "WATLEV": 3, "SORDAT": "200301", "SORIND": "US,US,graph,Chart 11378" }, "geometry": { "type": "Point", "coordinates": [ -87.51682, 30.3175918 ] } }
+]
+}

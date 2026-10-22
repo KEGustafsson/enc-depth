@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "OBSTRN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 11, "PRIM": 3, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 570467905, "FIDS": 8528, "LNAM": "02262200A6412150", "CATOBS": 5, "EXPSOU": 2, "QUASOU": [ "7" ], "VALSOU": 4.8, "WATLEV": 3, "SORDAT": "20100406", "SORIND": "US,US,reprt,L-419/2010" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -85.425, 29.9069751 ], [ -85.425, 29.9130728 ], [ -85.4281103, 29.9118603 ], [ -85.4280425, 29.9116945 ], [ -85.4284852, 29.911537 ], [ -85.425, 29.9069751 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 12, "PRIM": 3, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 964666524, "FIDS": 8528, "LNAM": "0226397FA49C2150", "CATOBS": 5, "EXPSOU": 2, "QUASOU": [ "7" ], "VALSOU": 2.7, "WATLEV": 3, "SORDAT": "20100406", "SORIND": "US,US,reprt,L-419/10" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -85.4897118, 29.925 ], [ -85.4768962, 29.9073387 ], [ -85.4687235, 29.8960759 ], [ -85.4512249, 29.9027427 ], [ -85.4507235, 29.9029337 ], [ -85.4486667, 29.9037167 ], [ -85.449445, 29.9047572 ], [ -85.4480198, 29.9053435 ], [ -85.45039, 29.9085791 ], [ -85.4577616, 29.9185691 ], [ -85.4625231, 29.925 ], [ -85.4897118, 29.925 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 13, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 395305072, "FIDS": 8528, "LNAM": "0226178FE0702150", "EXPSOU": 1, "QUASOU": [ "6" ], "VALSOU": 6.0, "WATLEV": 3, "SORDAT": "20020621", "SORIND": "US,US,reprt,L-762/12" }, "geometry": { "type": "Point", "coordinates": [ -85.4711333, 29.8991333 ] } },
+{ "type": "Feature", "properties": { "RCID": 14, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 220998830, "FIDS": 8528, "LNAM": "02260D2C2CAE2150", "EXPSOU": 1, "QUASOU": [ "6" ], "VALSOU": 6.4, "WATLEV": 3, "SORDAT": "20120511", "SORIND": "US,US,reprt,L-581/13" }, "geometry": { "type": "Point", "coordinates": [ -85.4740833, 29.9025278 ] } }
+]
+}

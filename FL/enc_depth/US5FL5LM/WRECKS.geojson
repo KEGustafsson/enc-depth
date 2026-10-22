@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "WRECKS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 84, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 815898735, "FIDS": 8648, "LNAM": "022630A1A06F21C8", "CATWRK": 2, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "20021005", "SORIND": "US,US,graph,chart 11465" }, "geometry": { "type": "Point", "coordinates": [ -80.3064061, 25.51873 ] } },
+{ "type": "Feature", "properties": { "RCID": 85, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 292336573, "FIDS": 8648, "LNAM": "0226116CB3BD21C8", "CATWRK": 5, "WATLEV": 2, "SORDAT": "20021005", "SORIND": "US,US,graph,chart 11465" }, "geometry": { "type": "Point", "coordinates": [ -80.281275, 25.530377 ] } },
+{ "type": "Feature", "properties": { "RCID": 86, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 169228193, "FIDS": 8648, "LNAM": "02260A1637A121C8", "CATWRK": 2, "QUASOU": [ "2" ], "WATLEV": 4, "SORDAT": "20040714", "SORIND": "US,US,reprt,L-1054/04" }, "geometry": { "type": "Point", "coordinates": [ -80.3094553, 25.5289941 ] } },
+{ "type": "Feature", "properties": { "RCID": 87, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 46748791, "FIDS": 8648, "LNAM": "022602C9547721C8", "CATWRK": 2, "EXPSOU": 3, "QUASOU": [ "6" ], "VALSOU": 3.0, "WATLEV": 3, "SORDAT": "20021005", "SORIND": "US,US,graph,chart 11465" }, "geometry": { "type": "Point", "coordinates": [ -80.299389, 25.526077 ] } },
+{ "type": "Feature", "properties": { "RCID": 88, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 607791532, "FIDS": 8648, "LNAM": "0226243A29AC21C8", "CATWRK": 5, "WATLEV": 2, "SORDAT": "20021005", "SORIND": "US,US,graph,chart 11465" }, "geometry": { "type": "Point", "coordinates": [ -80.258971, 25.5071 ] } },
+{ "type": "Feature", "properties": { "RCID": 89, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 99486783, "FIDS": 8648, "LNAM": "022605EE0C3F21C8", "CATWRK": 2, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "20021005", "SORIND": "US,US,graph,chart 11465" }, "geometry": { "type": "Point", "coordinates": [ -80.2807248, 25.5308685 ] } }
+]
+}

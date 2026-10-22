@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DRGARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 304, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 2, "AGEN": 550, "FIDN": 553295170, "FIDS": 7303, "LNAM": "022620FA9D421C87", "DRVAL1": 3.6, "OBJNAM": "GIWW - Santa Rosa Sound 2 - Reach 1", "QUASOU": [ "11" ], "INFORM": "Project depth only. Consult the U.S. Army Corps of Engineers for controlling depths and U.S. Coast Guard Local Notice to Mariners for other navigation hazards or restrictions.", "SORDAT": "20260219", "SORIND": "US,US,reprt,DD-43485" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -86.9262597, 30.3894017 ], [ -86.9276922, 30.3892562 ], [ -86.9277388, 30.3894201 ], [ -86.9277438, 30.3894377 ], [ -86.9277663, 30.389517 ], [ -86.9277953, 30.3896192 ], [ -86.925, 30.3898608 ], [ -86.925, 30.3897535 ], [ -86.925, 30.3896873 ], [ -86.925, 30.3895138 ], [ -86.9262597, 30.3894017 ] ] ] } }
+]
+}

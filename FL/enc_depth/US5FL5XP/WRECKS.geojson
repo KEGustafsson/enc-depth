@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "WRECKS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 141, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 719814197, "FIDS": 7396, "LNAM": "02262AE77E351CE4", "CATWRK": 2, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "200806", "SORIND": "US,US,graph,Chart 11467" }, "geometry": { "type": "Point", "coordinates": [ -80.0679, 26.402979 ] } },
+{ "type": "Feature", "properties": { "RCID": 142, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 729546896, "FIDS": 7396, "LNAM": "02262B7C00901CE4", "CATWRK": 2, "QUASOU": [ "2" ], "WATLEV": 4, "INFORM": "Awash at mean lower low water", "SORDAT": "200806", "SORIND": "US,US,graph,Chart 11467" }, "geometry": { "type": "Point", "coordinates": [ -80.058184, 26.452836 ] } },
+{ "type": "Feature", "properties": { "RCID": 143, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 818669889, "FIDS": 7396, "LNAM": "022630CBE9411CE4", "CATWRK": 2, "QUASOU": [ "2" ], "WATLEV": 3, "INFORM": "Uncovers", "SORDAT": "200806", "SORIND": "US,US,graph,Chart 11467" }, "geometry": { "type": "Point", "coordinates": [ -80.0648172, 26.4372445 ] } },
+{ "type": "Feature", "properties": { "RCID": 144, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 497306705, "FIDS": 7396, "LNAM": "02261DA44C511CE4", "CATWRK": 2, "QUASOU": [ "2" ], "STATUS": [ "18" ], "WATLEV": 3, "SORDAT": "200806", "SORIND": "US,US,graph,Chart 11467" }, "geometry": { "type": "Point", "coordinates": [ -80.0691727, 26.4005304 ] } },
+{ "type": "Feature", "properties": { "RCID": 145, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 346439501, "FIDS": 7396, "LNAM": "022614A63F4D1CE4", "CATWRK": 2, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "200806", "SORIND": "US,US,graph,Chart 11467" }, "geometry": { "type": "Point", "coordinates": [ -80.056284, 26.453904 ] } }
+]
+}

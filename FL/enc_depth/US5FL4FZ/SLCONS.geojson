@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SLCONS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 35, "PRIM": 3, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 742270939, "FIDS": 5516, "LNAM": "02262C3E27DB158C", "CATSLC": 4, "CONDTN": 2, "WATLEV": 4, "SORDAT": "20000909", "SORIND": "US,US,graph,Chart 11453" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -81.1550706, 24.7027322 ], [ -81.1549646, 24.7028055 ], [ -81.1548812, 24.7028633 ], [ -81.154884, 24.70291 ], [ -81.155077, 24.702921 ], [ -81.1550725, 24.7027891 ], [ -81.1550706, 24.7027322 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 36, "PRIM": 3, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 58820519, "FIDS": 5516, "LNAM": "0226038187A7158C", "CATSLC": 4, "CONDTN": 2, "WATLEV": 3, "SORDAT": "20000909", "SORIND": "US,US,graph,Chart 11453" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -81.1550706, 24.7027322 ], [ -81.1549646, 24.7028055 ], [ -81.1548812, 24.7028633 ], [ -81.1548785, 24.7028186 ], [ -81.154872, 24.702712 ], [ -81.155069, 24.702686 ], [ -81.1550706, 24.7027322 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 43, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 40296475, "FIDS": 5516, "LNAM": "02260266E01B158C", "CATSLC": 10, "WATLEV": 2, "SORDAT": "20000909", "SORIND": "US,US,graph,Chart 11453" }, "geometry": { "type": "LineString", "coordinates": [ [ -81.15531, 24.703112 ], [ -81.155342, 24.703391 ], [ -81.15521, 24.703391 ], [ -81.155157, 24.703127 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 44, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 646997141, "FIDS": 5516, "LNAM": "022626906495158C", "CATSLC": 4, "WATLEV": 2, "SORDAT": "20000909", "SORIND": "US,US,graph,Chart 11453" }, "geometry": { "type": "LineString", "coordinates": [ [ -81.155535, 24.704763 ], [ -81.155599, 24.705134 ], [ -81.155764, 24.705148 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 45, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 276407092, "FIDS": 5516, "LNAM": "02261079A334158C", "CATSLC": 4, "WATLEV": 4, "SORDAT": "20000909", "SORIND": "US,US,graph,Chart 11453" }, "geometry": { "type": "LineString", "coordinates": [ [ -81.155057, 24.70484 ], [ -81.15521, 24.705303 ], [ -81.155354, 24.705314 ] ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "WRECKS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 200, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 144503936, "FIDS": 7396, "LNAM": "0226089CF4801CE4", "CATWRK": 2, "EXPSOU": 2, "QUASOU": [ "6" ], "VALSOU": 4.2, "WATLEV": 3, "SORDAT": "20000226", "SORIND": "US,US,graph,Chart 11416" }, "geometry": { "type": "Point", "coordinates": [ -82.4678906, 27.7908022 ] } },
+{ "type": "Feature", "properties": { "RCID": 201, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 263311874, "FIDS": 7396, "LNAM": "02260FB1D2021CE4", "CATWRK": 2, "EXPSOU": 2, "QUASOU": [ "6" ], "VALSOU": 3.3, "WATLEV": 3, "SORDAT": "20101209", "SORIND": "US,US,graph,H-12016" }, "geometry": { "type": "Point", "coordinates": [ -82.4354314, 27.8137333 ] } },
+{ "type": "Feature", "properties": { "RCID": 202, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 276570065, "FIDS": 7396, "LNAM": "0226107C1FD11CE4", "CATWRK": 2, "EXPSOU": 1, "QUASOU": [ "6" ], "VALSOU": 6.4, "WATLEV": 3, "SORDAT": "20101209", "SORIND": "US,US,graph,H-12016" }, "geometry": { "type": "Point", "coordinates": [ -82.4457708, 27.8151873 ] } },
+{ "type": "Feature", "properties": { "RCID": 203, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 118361366, "FIDS": 7396, "LNAM": "0226070E0D161CE4", "CATWRK": 2, "EXPSOU": 2, "QUASOU": [ "6" ], "VALSOU": 2.4, "WATLEV": 3, "SORDAT": "19970317", "SORIND": "US,US,graph,H-10623" }, "geometry": { "type": "Point", "coordinates": [ -82.4939677, 27.7821929 ] } },
+{ "type": "Feature", "properties": { "RCID": 204, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 886621700, "FIDS": 7396, "LNAM": "022634D8C6041CE4", "CATWRK": 2, "QUASOU": [ "2" ], "STATUS": [ "18" ], "WATLEV": 3, "SORDAT": "20000226", "SORIND": "US,US,graph,Chart 11416" }, "geometry": { "type": "Point", "coordinates": [ -82.4781716, 27.7591342 ] } }
+]
+}

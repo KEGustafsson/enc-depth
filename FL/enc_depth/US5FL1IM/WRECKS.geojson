@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "WRECKS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 488, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 746953880, "FIDS": 7387, "LNAM": "02262C859C981CDB", "CATWRK": 2, "QUASOU": [ "2" ], "WATLEV": 3, "INFORM": "Reported", "SORDAT": "20101005", "SORIND": "US,US,graph,GC-11201, DD-28454(CEF)" }, "geometry": { "type": "Point", "coordinates": [ -86.6189759, 30.4021532 ] } },
+{ "type": "Feature", "properties": { "RCID": 489, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 398340241, "FIDS": 7387, "LNAM": "022617BE30911CDB", "CATWRK": 2, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "20101005", "SORIND": "US,US,graph,GC-11201, DD-28454(CEF)" }, "geometry": { "type": "Point", "coordinates": [ -86.619804, 30.401325 ] } },
+{ "type": "Feature", "properties": { "RCID": 490, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 746930608, "FIDS": 7387, "LNAM": "02262C8541B01CDB", "CATWRK": 2, "QUASOU": [ "2" ], "WATLEV": 5, "SORDAT": "20201209", "SORIND": "US,US,reprt,8thCGD,LNM 49/20" }, "geometry": { "type": "Point", "coordinates": [ -86.5861667, 30.4016667 ] } },
+{ "type": "Feature", "properties": { "RCID": 491, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 348620947, "FIDS": 7387, "LNAM": "022614C788931CDB", "CATWRK": 2, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "20101005", "SORIND": "US,US,graph,GC-11201, DD-28454(CEF)" }, "geometry": { "type": "Point", "coordinates": [ -86.58803, 30.4046921 ] } },
+{ "type": "Feature", "properties": { "RCID": 492, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 790440071, "FIDS": 7387, "LNAM": "02262F1D28871CDB", "CATWRK": 2, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "20101005", "SORIND": "US,US,graph,GC-11201, DD-28454(CEF)" }, "geometry": { "type": "Point", "coordinates": [ -86.6013599, 30.4002683 ] } },
+{ "type": "Feature", "properties": { "RCID": 493, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 740626583, "FIDS": 7387, "LNAM": "02262C2510971CDB", "CATWRK": 2, "QUASOU": [ "2" ], "WATLEV": 5, "SORDAT": "20210203", "SORIND": "US,US,reprt,8thCGD,LNM 05/21" }, "geometry": { "type": "Point", "coordinates": [ -86.6, 30.4016667 ] } }
+]
+}

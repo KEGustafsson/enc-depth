@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "UWTROC",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 38, "PRIM": 1, "GRUP": 2, "OBJL": 153, "RVER": 1, "AGEN": 550, "FIDN": 996200579, "FIDS": 6435, "LNAM": "02263B60D0831923", "OBJNAM": "Marion Rock", "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "200312", "SORIND": "US,US,graph,Chart 11460" }, "geometry": { "type": "Point", "coordinates": [ -80.3324187, 24.0072549 ] } },
+{ "type": "Feature", "properties": { "RCID": 39, "PRIM": 1, "GRUP": 2, "OBJL": 153, "RVER": 1, "AGEN": 550, "FIDN": 190968339, "FIDS": 6435, "LNAM": "02260B61F2131923", "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "201109", "SORIND": "US,US,graph,Chart 11450" }, "geometry": { "type": "Point", "coordinates": [ -80.3684714, 25.0208933 ] } }
+]
+}

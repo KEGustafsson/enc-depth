@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "PONTON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 1278, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": 189355103, "FIDS": 12345, "LNAM": "02260B49545F3039", "SCAMIN": 44999, "SORDAT": "20160213", "SORIND": "US,US,graph,GC-11378" }, "geometry": { "type": "LineString", "coordinates": [ [ -82.8170003, 28.0589054 ], [ -82.8170676, 28.0588596 ], [ -82.8172132, 28.0586722 ] ] } }
+]
+}

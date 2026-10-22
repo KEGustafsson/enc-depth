@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DRGARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 113, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 916575625, "FIDS": 7396, "LNAM": "022636A1D5891CE4", "DRVAL1": 3.9, "OBJNAM": "OWW Caloosahatchee River", "SORDAT": "20200313", "SORIND": "US,US,graph,DD-33490" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -81.9, 26.6030926 ], [ -81.8962654, 26.6165874 ], [ -81.8957207, 26.6185553 ], [ -81.8958602, 26.6185944 ], [ -81.8960133, 26.6186373 ], [ -81.8991626, 26.6072593 ], [ -81.9, 26.6042332 ], [ -81.9, 26.6036938 ], [ -81.9, 26.6030926 ] ] ] } }
+]
+}

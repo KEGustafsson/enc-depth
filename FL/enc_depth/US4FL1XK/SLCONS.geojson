@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SLCONS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 256, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 798905145, "FIDS": 7303, "LNAM": "02262F9E53391C87", "CATSLC": 4, "WATLEV": 2, "SORDAT": "200306", "SORIND": "US,US,graph,Chart 11405" }, "geometry": { "type": "LineString", "coordinates": [ [ -84.3866219, 30.0297066 ], [ -84.3858284, 30.0296172 ], [ -84.385502, 30.0295804 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 257, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 313799449, "FIDS": 7303, "LNAM": "022612B433191C87", "CATSLC": 4, "WATLEV": 2, "SORDAT": "200306", "SORIND": "US,US,graph,Chart 11405" }, "geometry": { "type": "LineString", "coordinates": [ [ -84.3868064, 30.0280023 ], [ -84.386432, 30.0278967 ], [ -84.3859244, 30.0277536 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 258, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 339770155, "FIDS": 7303, "LNAM": "022614407B2B1C87", "CATSLC": 4, "WATLEV": 2, "SORDAT": "200306", "SORIND": "US,US,graph,Chart 11405" }, "geometry": { "type": "LineString", "coordinates": [ [ -84.3866987, 30.0262331 ], [ -84.3858912, 30.0261646 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 259, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 715072626, "FIDS": 7303, "LNAM": "02262A9F24721C87", "CATSLC": 4, "WATLEV": 2, "SORDAT": "200306", "SORIND": "US,US,graph,Chart 11405" }, "geometry": { "type": "LineString", "coordinates": [ [ -84.3658703, 30.0348805 ], [ -84.3651457, 30.0347039 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 260, "PRIM": 2, "GRUP": 2, "OBJL": 122, "RVER": 1, "AGEN": 550, "FIDN": 554545128, "FIDS": 7303, "LNAM": "0226210DAFE81C87", "CATSLC": 4, "WATLEV": 2, "SORDAT": "200306", "SORIND": "US,US,graph,Chart 11405" }, "geometry": { "type": "LineString", "coordinates": [ [ -84.3207241, 30.0770011 ], [ -84.3208429, 30.0763844 ] ] } }
+]
+}

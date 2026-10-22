@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "UWTROC",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 61, "PRIM": 1, "GRUP": 2, "OBJL": 153, "RVER": 1, "AGEN": 550, "FIDN": 577036830, "FIDS": 7396, "LNAM": "02262264E21E1CE4", "EXPSOU": 2, "QUASOU": [ "6" ], "VALSOU": 0.9, "WATLEV": 3, "SORDAT": "200404", "SORIND": "US,US,graph,Chart 11438" }, "geometry": { "type": "Point", "coordinates": [ -82.824033, 24.64837 ] } },
+{ "type": "Feature", "properties": { "RCID": 62, "PRIM": 1, "GRUP": 2, "OBJL": 153, "RVER": 1, "AGEN": 550, "FIDN": 416919744, "FIDS": 7396, "LNAM": "022618D9B0C01CE4", "EXPSOU": 1, "OBJNAM": "Iowa Rock", "QUASOU": [ "6" ], "VALSOU": 6.4, "WATLEV": 3, "SORDAT": "200404", "SORIND": "US,US,graph,Chart 11438" }, "geometry": { "type": "Point", "coordinates": [ -82.860219, 24.640245 ] } },
+{ "type": "Feature", "properties": { "RCID": 63, "PRIM": 1, "GRUP": 2, "OBJL": 153, "RVER": 1, "AGEN": 550, "FIDN": 332634224, "FIDS": 7396, "LNAM": "022613D398701CE4", "QUASOU": [ "2" ], "WATLEV": 4, "SORDAT": "200404", "SORIND": "US,US,graph,Chart 11438" }, "geometry": { "type": "Point", "coordinates": [ -82.80185, 24.645613 ] } },
+{ "type": "Feature", "properties": { "RCID": 64, "PRIM": 1, "GRUP": 2, "OBJL": 153, "RVER": 1, "AGEN": 550, "FIDN": 207450928, "FIDS": 7396, "LNAM": "02260C5D73301CE4", "EXPSOU": 2, "QUASOU": [ "6" ], "VALSOU": 0.9, "WATLEV": 3, "SORDAT": "200404", "SORIND": "US,US,graph,Chart 11438" }, "geometry": { "type": "Point", "coordinates": [ -82.823269, 24.65016 ] } },
+{ "type": "Feature", "properties": { "RCID": 65, "PRIM": 1, "GRUP": 2, "OBJL": 153, "RVER": 1, "AGEN": 550, "FIDN": 774312415, "FIDS": 7396, "LNAM": "02262E2711DF1CE4", "QUASOU": [ "2" ], "WATLEV": 4, "SORDAT": "200404", "SORIND": "US,US,graph,Chart 11438" }, "geometry": { "type": "Point", "coordinates": [ -82.831839, 24.644914 ] } }
+]
+}

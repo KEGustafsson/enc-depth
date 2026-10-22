@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WRECKS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 2, "PRIM": 1, "GRUP": 2, "OBJL": 159, "RVER": 1, "AGEN": 550, "FIDN": 248979460, "FIDS": 7372, "LNAM": "02260ED720041CCC", "CATWRK": 5, "WATLEV": 2, "SORDAT": "201503", "SORIND": "US,US,graph,Chart 11408" }, "geometry": { "type": "Point", "coordinates": [ -83.102342, 29.0676847 ] } }
+]
+}

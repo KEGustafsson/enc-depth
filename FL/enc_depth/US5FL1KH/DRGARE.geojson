@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DRGARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 116, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 422883155, "FIDS": 7303, "LNAM": "02261934AF531C87", "DRVAL1": 2.7, "OBJNAM": "Blackwater Reach 2 MH", "QUASOU": [ "10" ], "SORDAT": "20220627", "SORIND": "US,US,graph,DD-36760" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -87.0, 30.5635426 ], [ -87.0, 30.5638632 ], [ -86.9985135, 30.5660064 ], [ -86.9993831, 30.5688897 ], [ -87.0, 30.5695563 ], [ -87.0, 30.5698203 ], [ -86.9992084, 30.5689648 ], [ -86.9986751, 30.5671343 ], [ -86.998308, 30.5659821 ], [ -87.0, 30.5635426 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 117, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 167171134, "FIDS": 7303, "LNAM": "022609F6D43E1C87", "DRVAL1": 2.6, "OBJNAM": "Blackwater Reach 2 LOQ", "QUASOU": [ "10" ], "SORDAT": "20220627", "SORIND": "US,US,graph,DD-36760" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -87.0, 30.5638632 ], [ -87.0, 30.5639688 ], [ -87.0, 30.56397 ], [ -86.9985819, 30.5660145 ], [ -86.9994415, 30.5688647 ], [ -87.0, 30.5694683 ], [ -87.0, 30.5695563 ], [ -86.9993831, 30.5688897 ], [ -86.9985135, 30.5660064 ], [ -87.0, 30.5638632 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 118, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 297613790, "FIDS": 7303, "LNAM": "022611BD39DE1C87", "DRVAL1": 2.3, "OBJNAM": "Blackwater Reach 2 ROQ", "QUASOU": [ "10" ], "SORDAT": "20220627", "SORIND": "US,US,graph,DD-36760" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -87.0, 30.563435 ], [ -87.0, 30.5634357 ], [ -87.0, 30.5635426 ], [ -86.998308, 30.5659821 ], [ -86.9986751, 30.5671343 ], [ -86.9992084, 30.5689648 ], [ -87.0, 30.5698203 ], [ -87.0, 30.5699082 ], [ -86.9991504, 30.5689899 ], [ -86.9982395, 30.565974 ], [ -87.0, 30.563435 ] ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DRGARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 420, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 516222166, "FIDS": 7372, "LNAM": "02261EC4ECD61CCC", "DRVAL1": 1.2, "QUASOU": [ "11" ], "SORDAT": "2002", "SORIND": "US,US,graph,Chart 11485" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -80.689802, 28.309675 ], [ -80.688965, 28.30996 ], [ -80.6880084, 28.3102609 ], [ -80.687789, 28.309943 ], [ -80.689739, 28.309339 ], [ -80.689939, 28.309277 ], [ -80.692954, 28.308237 ], [ -80.695215, 28.307473 ], [ -80.695344, 28.30783 ], [ -80.693267, 28.308497 ], [ -80.689802, 28.309675 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 421, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 316560112, "FIDS": 7372, "LNAM": "022612DE52F01CCC", "DRVAL1": 3.6, "OBJNAM": "Intracoastal Waterway", "QUASOU": [ "11" ], "INFORM": "Project depth only. Consult the U.S. Army Corps of Engineers for controlling depths and U.S. Coast Guard Local Notice to Mariners for other navigation hazards or restrictions.", "SORDAT": "20170202", "SORIND": "US,US,reprt,L-297-2017" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -80.7, 28.3162243 ], [ -80.7, 28.3167032 ], [ -80.7, 28.3170617 ], [ -80.698976, 28.314992 ], [ -80.698609, 28.314222 ], [ -80.6982337, 28.3132118 ], [ -80.698233, 28.31321 ], [ -80.6984299, 28.313129 ], [ -80.6984494, 28.3131209 ], [ -80.698629, 28.313047 ], [ -80.698958, 28.31409 ], [ -80.699838, 28.315902 ], [ -80.7, 28.3162243 ] ] ] } }
+]
+}

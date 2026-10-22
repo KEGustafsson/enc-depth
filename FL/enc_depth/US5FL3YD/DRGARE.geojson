@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DRGARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 408, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 487038994, "FIDS": 8684, "LNAM": "02261D07A01221EC", "DRVAL1": 0.7, "OBJNAM": "Bayshore Garden Channel", "QUASOU": [ "10" ], "INFORM": "Centerline only", "SORDAT": "2001", "SORIND": "US,US,graph,Chart 11425" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -82.5899056, 27.4109871 ], [ -82.5901656, 27.410398 ], [ -82.5900284, 27.4103548 ], [ -82.5897883, 27.4108969 ], [ -82.589075, 27.412508 ], [ -82.5867229, 27.4178197 ], [ -82.5868683, 27.4178701 ], [ -82.5892308, 27.4125164 ], [ -82.5899056, 27.4109871 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 409, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": 474029868, "FIDS": 8684, "LNAM": "02261C411F2C21EC", "DRVAL1": 2.7, "OBJNAM": "Gulf Intracoastal Waterway", "QUASOU": [ "11" ], "INFORM": "Project depth only, Consult the U.S. Army Corps of Engineers for controlling depths and U.S. Coast Guard Local Notice to Mariners for other navigation hazards or restrictions.", "SORDAT": "20220503", "SORIND": "US,US,reprt,L-119-2022" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -82.6385552, 27.4082162 ], [ -82.636172, 27.406435 ], [ -82.6307519, 27.407005 ], [ -82.629206, 27.407172 ], [ -82.6259528, 27.4082813 ], [ -82.6260276, 27.4085692 ], [ -82.629468, 27.407467 ], [ -82.634531, 27.406986 ], [ -82.637121, 27.407601 ], [ -82.6381112, 27.4083289 ], [ -82.64406, 27.4127711 ], [ -82.65, 27.4171434 ], [ -82.65, 27.4170471 ], [ -82.65, 27.4167248 ], [ -82.6385552, 27.4082162 ] ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "OBSTRN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 1, "PRIM": 3, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 896934465, "FIDS": 7387, "LNAM": "0226357622411CDB", "CATOBS": 5, "EXPSOU": 2, "QUASOU": [ "7" ], "VALSOU": 9.7, "WATLEV": 3, "SORDAT": "20120907", "SORIND": "US,US,reprt,L-454-2019" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -83.9, 29.637222 ], [ -83.916667, 29.637222 ], [ -83.916667, 29.651667 ], [ -83.9, 29.651667 ], [ -83.9, 29.637222 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 2, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 141470020, "FIDS": 8708, "LNAM": "0226086EA9442204", "CATOBS": 5, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "20120907", "SORIND": "US,US,reprt,L-454-2019" }, "geometry": { "type": "Point", "coordinates": [ -83.9117667, 29.6365 ] } }
+]
+}

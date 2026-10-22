@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "OBSTRN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 152, "PRIM": 3, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 2089672, "FIDS": 8648, "LNAM": "0226001FE2C821C8", "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "201211", "SORIND": "US,US,graph,Chart 11404" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -84.6594317, 29.827292 ], [ -84.6597274, 29.8271665 ], [ -84.660073, 29.827238 ], [ -84.660203, 29.827546 ], [ -84.660018, 29.828037 ], [ -84.659707, 29.828216 ], [ -84.6594469, 29.8280588 ], [ -84.6592649, 29.8276027 ], [ -84.6594317, 29.827292 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 153, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 962830058, "FIDS": 7303, "LNAM": "022639639EEA1C87", "EXPSOU": 1, "QUASOU": [ "6" ], "VALSOU": 4.4, "WATLEV": 3, "SORDAT": "20201016", "SORIND": "US,US,graph,H13290" }, "geometry": { "type": "Point", "coordinates": [ -84.6605469, 29.785368 ] } },
+{ "type": "Feature", "properties": { "RCID": 154, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 781484244, "FIDS": 7303, "LNAM": "02262E9480D41C87", "QUASOU": [ "6" ], "VALSOU": 4.3, "WATLEV": 3, "SORDAT": "20201016", "SORIND": "US,US,graph,H13290" }, "geometry": { "type": "Point", "coordinates": [ -84.6481156, 29.7889857 ] } },
+{ "type": "Feature", "properties": { "RCID": 155, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 246954275, "FIDS": 7303, "LNAM": "02260EB839231C87", "EXPSOU": 1, "QUASOU": [ "6" ], "VALSOU": 4.4, "WATLEV": 3, "INFORM": "Obstructions", "SORDAT": "20201016", "SORIND": "US,US,graph,H13290" }, "geometry": { "type": "Point", "coordinates": [ -84.648062, 29.7895782 ] } },
+{ "type": "Feature", "properties": { "RCID": 156, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 449927292, "FIDS": 7303, "LNAM": "02261AD1587C1C87", "EXPSOU": 1, "QUASOU": [ "6" ], "VALSOU": 3.4, "WATLEV": 3, "SORDAT": "20201016", "SORIND": "US,US,graph,H13290" }, "geometry": { "type": "Point", "coordinates": [ -84.6538672, 29.7829736 ] } }
+]
+}
