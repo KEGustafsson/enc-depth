@@ -1,9 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "SOUNDG",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "RCID": 150, "PRIM": 1, "GRUP": 2, "OBJL": 129, "RVER": 1, "AGEN": 550, "FIDN": 308106682, "FIDS": 5458, "LNAM": "0226125D55BA1552", "SCAMIN": 119999, "SORDAT": "19990828", "SORIND": "US,US,graph,Chart 14961", "DEPTH": 170.0 }, "geometry": { "type": "Point", "coordinates": [ -87.2304691, 47.8286875, 170.0 ] } },
-{ "type": "Feature", "properties": { "RCID": 150, "PRIM": 1, "GRUP": 2, "OBJL": 129, "RVER": 1, "AGEN": 550, "FIDN": 308106682, "FIDS": 5458, "LNAM": "0226125D55BA1552", "SCAMIN": 119999, "SORDAT": "19990828", "SORIND": "US,US,graph,Chart 14961", "DEPTH": 252.3 }, "geometry": { "type": "Point", "coordinates": [ -87.07452, 47.74179, 252.3 ] } }
-]
-}

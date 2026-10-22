@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "SELECT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "PRIM": "edge", "RCID": 110, "QUAPOS": 4, "POSACC": null, "NODE0": 28, "NODE1": 31 }, "geometry": { "type": "LineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "PRIM": "edge", "RCID": 111, "QUAPOS": 4, "POSACC": null, "NODE0": 31, "NODE1": 38 }, "geometry": { "type": "LineString", "coordinates": [ [ -82.7238997, 27.5266978 ] ] } },
+{ "type": "Feature", "properties": { "PRIM": "edge", "RCID": 114, "QUAPOS": 4, "POSACC": null, "NODE0": 33, "NODE1": 38 }, "geometry": { "type": "LineString", "coordinates": [ [ -82.7238641, 27.5269392 ] ] } },
+{ "type": "Feature", "properties": { "PRIM": "edge", "RCID": 218, "QUAPOS": 4, "POSACC": null, "NODE0": 28, "NODE1": 33 }, "geometry": { "type": "LineString", "coordinates": [ [ -82.7240157, 27.5269675 ] ] } },
+{ "type": "Feature", "properties": { "PRIM": "edge", "RCID": 246, "QUAPOS": 4, "POSACC": null, "NODE0": 63, "NODE1": 68 }, "geometry": { "type": "LineString", "coordinates": [ [ -82.7215296, 27.5255873 ], [ -82.7216358, 27.5255804 ], [ -82.721757, 27.5256157 ], [ -82.7219362, 27.5257099 ], [ -82.7220753, 27.5257616 ], [ -82.7221331, 27.5256782 ], [ -82.7219884, 27.5255542 ], [ -82.7218653, 27.5255124 ], [ -82.7216965, 27.5254537 ], [ -82.7214794, 27.525471 ] ] } },
+{ "type": "Feature", "properties": { "PRIM": "edge", "RCID": 252, "QUAPOS": 4, "POSACC": null, "NODE0": 63, "NODE1": 68 }, "geometry": { "type": "LineString", "coordinates": [ [ -82.72122, 27.5256468 ] ] } },
+{ "type": "Feature", "properties": { "PRIM": "cnode", "RCID": 28, "QUAPOS": null, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -82.7240726, 27.5267999 ] } },
+{ "type": "Feature", "properties": { "PRIM": "cnode", "RCID": 31, "QUAPOS": null, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -82.7239896, 27.5266963 ] } },
+{ "type": "Feature", "properties": { "PRIM": "cnode", "RCID": 33, "QUAPOS": null, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -82.7239484, 27.5269549 ] } },
+{ "type": "Feature", "properties": { "PRIM": "cnode", "RCID": 38, "QUAPOS": null, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -82.7238273, 27.5267941 ] } },
+{ "type": "Feature", "properties": { "PRIM": "cnode", "RCID": 63, "QUAPOS": null, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -82.7213178, 27.5256601 ] } },
+{ "type": "Feature", "properties": { "PRIM": "cnode", "RCID": 68, "QUAPOS": null, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -82.7211781, 27.5255742 ] } },
+{ "type": "Feature", "properties": { "PRIM": "inode", "RCID": 1, "QUAPOS": 4, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -82.7168489, 27.5294801 ] } },
+{ "type": "Feature", "properties": { "PRIM": "inode", "RCID": 3, "QUAPOS": 4, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -82.7178818, 27.5274066 ] } },
+{ "type": "Feature", "properties": { "PRIM": "inode", "RCID": 4, "QUAPOS": 4, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -82.719722, 27.525416 ] } },
+{ "type": "Feature", "properties": { "PRIM": "inode", "RCID": 5, "QUAPOS": 4, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -82.7192217, 27.5253363 ] } },
+{ "type": "Feature", "properties": { "PRIM": "inode", "RCID": 6, "QUAPOS": 4, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -82.7175842, 27.5299934 ] } },
+{ "type": "Feature", "properties": { "PRIM": "inode", "RCID": 21, "QUAPOS": 4, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -82.705933, 27.5353934 ] } }
+]
+}

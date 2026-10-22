@@ -1,9 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "DRGARE",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "RCID": 184, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": -1013145333, "FIDS": 6435, "LNAM": "0226C39CA10B1923", "DRVAL1": 8.5, "OBJNAM": "Saint Marys River, Round Island Course", "QUASOU": [ "11" ], "INFORM": "Project depth", "TXTDSC": "US365TPD.TXT", "SORDAT": "20000812", "SORIND": "US,US,graph,Chart 14882" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -84.016387, 46.082899 ], [ -84.014689, 46.092783 ], [ -84.013939, 46.097152 ], [ -84.011148, 46.113449 ], [ -84.011095, 46.113748 ], [ -84.0091645, 46.125 ], [ -84.0168764, 46.125 ], [ -84.016987, 46.108344 ], [ -84.020455, 46.088107 ], [ -84.020455, 46.088099 ], [ -84.021287, 46.083248 ], [ -84.020196, 46.083186 ], [ -84.018194, 46.083008 ], [ -84.016387, 46.082899 ] ] ] } },
-{ "type": "Feature", "properties": { "RCID": 185, "PRIM": 3, "GRUP": 1, "OBJL": 46, "RVER": 1, "AGEN": 550, "FIDN": -19204387, "FIDS": 15681, "LNAM": "0226FEDAF6DD3D41", "DRVAL1": 8.8, "OBJNAM": "Saint Marys River, Pipe Island Course", "QUASOU": [ "11" ], "INFORM": "Project depth", "TXTDSC": "US365TPD.TXT", "SORDAT": "20000812", "SORIND": "US,US,graph,Chart 14882" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -84.0, 46.0617597 ], [ -84.0, 46.0679914 ], [ -84.006536, 46.070071 ], [ -84.009238, 46.073463 ], [ -84.009553, 46.073857 ], [ -84.013388, 46.078673 ], [ -84.013603, 46.078947 ], [ -84.016452, 46.082521 ], [ -84.016387, 46.082899 ], [ -84.018194, 46.083008 ], [ -84.020196, 46.083186 ], [ -84.021287, 46.083248 ], [ -84.021656, 46.081105 ], [ -84.023648, 46.0694 ], [ -84.0, 46.0617597 ] ] ] } }
-]
-}

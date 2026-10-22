@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "SELECT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "PRIM": "edge", "RCID": 27, "QUAPOS": 4, "POSACC": null, "NODE0": 27, "NODE1": 28 }, "geometry": { "type": "LineString", "coordinates": [ [ -80.0187641, 26.7785068 ], [ -80.0186343, 26.7779889 ], [ -80.0184756, 26.7772769 ], [ -80.018216, 26.7766036 ], [ -80.0179996, 26.776008 ], [ -80.0178554, 26.7753865 ] ] } },
+{ "type": "Feature", "properties": { "PRIM": "edge", "RCID": 104, "QUAPOS": 4, "POSACC": null, "NODE0": 34, "NODE1": 34 }, "geometry": { "type": "LineString", "coordinates": [ [ -80.015174, 26.8034102 ], [ -80.0150631, 26.8035146 ], [ -80.015024, 26.8036516 ], [ -80.0150435, 26.8038931 ], [ -80.0150631, 26.8041801 ], [ -80.0150109, 26.8048261 ], [ -80.0149783, 26.8054459 ], [ -80.0148739, 26.8059287 ], [ -80.0146194, 26.8064376 ], [ -80.0144563, 26.8067704 ], [ -80.0144498, 26.8068682 ], [ -80.0144889, 26.8069596 ], [ -80.0145999, 26.8070379 ], [ -80.0147043, 26.807064 ], [ -80.0148413, 26.8070118 ], [ -80.0152458, 26.8065029 ], [ -80.0154611, 26.8061114 ], [ -80.0155394, 26.80587 ], [ -80.0157189, 26.8040645 ], [ -80.0157025, 26.8037038 ], [ -80.0156242, 26.8035342 ], [ -80.0155133, 26.8034102 ] ] } },
+{ "type": "Feature", "properties": { "PRIM": "cnode", "RCID": 27, "QUAPOS": null, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -80.0193039, 26.7795829 ] } },
+{ "type": "Feature", "properties": { "PRIM": "cnode", "RCID": 28, "QUAPOS": null, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -80.0177772, 26.775 ] } },
+{ "type": "Feature", "properties": { "PRIM": "cnode", "RCID": 34, "QUAPOS": null, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -80.0153632, 26.8033972 ] } },
+{ "type": "Feature", "properties": { "PRIM": "inode", "RCID": 3, "QUAPOS": 4, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -79.950038, 26.813531 ] } }
+]
+}

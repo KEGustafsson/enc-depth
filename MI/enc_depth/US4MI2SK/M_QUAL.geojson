@@ -1,9 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "M_QUAL",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "RCID": 4, "PRIM": 3, "GRUP": 2, "OBJL": 308, "RVER": 1, "AGEN": 550, "FIDN": 902343086, "FIDS": 2009, "LNAM": "022635C8A9AE07D9", "CATZOC": 3, "SUREND": "1959", "SURSTA": "1950", "SORDAT": "20180216", "SORIND": "US,US,reprt,L-149-2018" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -87.4706588, 47.1 ], [ -87.3, 47.1 ], [ -87.3, 47.2757912 ], [ -87.3, 47.3597124 ], [ -87.3000031, 47.3597125 ], [ -87.4566331, 47.3639458 ], [ -87.5298668, 47.3846014 ], [ -87.5330757, 47.4 ], [ -87.5433848, 47.4 ], [ -87.5999985, 47.4 ], [ -87.6, 47.4 ], [ -87.6, 47.1 ], [ -87.4706588, 47.1 ] ] ] } },
-{ "type": "Feature", "properties": { "RCID": 5, "PRIM": 3, "GRUP": 2, "OBJL": 308, "RVER": 1, "AGEN": 550, "FIDN": 286910217, "FIDS": 2009, "LNAM": "02261119E70907D9", "CATZOC": 4, "SUREND": "1959", "SURSTA": "1950", "SORDAT": "20180216", "SORIND": "US,US,reprt,L-149-2018" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -87.5330757, 47.4 ], [ -87.5298668, 47.3846014 ], [ -87.4566331, 47.3639458 ], [ -87.3000031, 47.3597125 ], [ -87.3, 47.3597124 ], [ -87.3, 47.4 ], [ -87.5330757, 47.4 ] ] ] } }
-]
-}

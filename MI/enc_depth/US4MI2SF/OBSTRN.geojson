@@ -1,9 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "OBSTRN",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "RCID": 5, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 420481110, "FIDS": 7300, "LNAM": "0226191008561C84", "OBJNAM": "Acoustic Receiver", "QUASOU": [ "2" ], "WATLEV": 3, "INFORM": "Submerged Buoy", "SORDAT": "20180305", "SORIND": "US,US,reprt,L-203-2018" }, "geometry": { "type": "Point", "coordinates": [ -88.85937, 47.12752 ] } },
-{ "type": "Feature", "properties": { "RCID": 6, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 450996990, "FIDS": 7300, "LNAM": "02261AE1AAFE1C84", "OBJNAM": "Acoustic Receiver", "QUASOU": [ "2" ], "WATLEV": 3, "INFORM": "Submerged Buoy", "SORDAT": "20180305", "SORIND": "US,US,reprt,L-203-2018" }, "geometry": { "type": "Point", "coordinates": [ -88.85275, 47.12223 ] } }
-]
-}

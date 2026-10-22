@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SELECT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "PRIM": "edge", "RCID": 56, "QUAPOS": 4, "POSACC": null, "NODE0": 15, "NODE1": 22 }, "geometry": { "type": "LineString", "coordinates": [ [ -80.9887496, 30.1185391 ] ] } },
+{ "type": "Feature", "properties": { "PRIM": "edge", "RCID": 57, "QUAPOS": 4, "POSACC": null, "NODE0": 15, "NODE1": 22 }, "geometry": { "type": "LineString", "coordinates": [ [ -80.9925907, 30.1187424 ], [ -80.994528, 30.1197877 ], [ -80.9960645, 30.1213848 ], [ -80.9970665, 30.1242013 ], [ -80.9970655, 30.1242392 ], [ -80.9969997, 30.1267855 ], [ -80.9968327, 30.1277146 ], [ -80.9958307, 30.1291373 ], [ -80.9943944, 30.1303567 ], [ -80.9929247, 30.1312858 ], [ -80.9903194, 30.1318375 ], [ -80.9881817, 30.1320988 ], [ -80.9846078, 30.1320407 ], [ -80.9827707, 30.1309955 ], [ -80.9814012, 30.1291663 ], [ -80.9810672, 30.1253918 ], [ -80.9815682, 30.1222268 ], [ -80.9832383, 30.1197006 ] ] } },
+{ "type": "Feature", "properties": { "PRIM": "cnode", "RCID": 15, "QUAPOS": null, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -80.9909027, 30.1186531 ] } },
+{ "type": "Feature", "properties": { "PRIM": "cnode", "RCID": 22, "QUAPOS": null, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -80.9842737, 30.1190908 ] } }
+]
+}

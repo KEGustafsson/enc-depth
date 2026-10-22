@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "SELECT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "PRIM": "edge", "RCID": 128, "QUAPOS": 4, "POSACC": null, "NODE0": 159, "NODE1": 171 }, "geometry": { "type": "LineString", "coordinates": [ [ -82.3527588, 26.9171681 ], [ -82.3526786, 26.9170964 ] ] } },
+{ "type": "Feature", "properties": { "PRIM": "edge", "RCID": 129, "QUAPOS": 4, "POSACC": null, "NODE0": 156, "NODE1": 157 }, "geometry": { "type": "LineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "PRIM": "edge", "RCID": 134, "QUAPOS": 4, "POSACC": null, "NODE0": 194, "NODE1": 204 }, "geometry": { "type": "LineString", "coordinates": [ [ -82.3509424, 26.899803 ], [ -82.3510323, 26.8989172 ], [ -82.3507925, 26.897763 ], [ -82.3506428, 26.8967429 ], [ -82.3503672, 26.8960022 ], [ -82.3500136, 26.8950518 ] ] } },
+{ "type": "Feature", "properties": { "PRIM": "edge", "RCID": 169, "QUAPOS": 4, "POSACC": null, "NODE0": 194, "NODE1": 196 }, "geometry": { "type": "LineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "PRIM": "cnode", "RCID": 156, "QUAPOS": null, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -82.353642, 26.9181693 ] } },
+{ "type": "Feature", "properties": { "PRIM": "cnode", "RCID": 157, "QUAPOS": null, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -82.3534644, 26.9180108 ] } },
+{ "type": "Feature", "properties": { "PRIM": "cnode", "RCID": 159, "QUAPOS": null, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -82.3528344, 26.9172268 ] } },
+{ "type": "Feature", "properties": { "PRIM": "cnode", "RCID": 171, "QUAPOS": null, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -82.3526698, 26.9170494 ] } },
+{ "type": "Feature", "properties": { "PRIM": "cnode", "RCID": 194, "QUAPOS": null, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -82.3509376, 26.8998293 ] } },
+{ "type": "Feature", "properties": { "PRIM": "cnode", "RCID": 196, "QUAPOS": null, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -82.3508304, 26.9004209 ] } },
+{ "type": "Feature", "properties": { "PRIM": "cnode", "RCID": 204, "QUAPOS": null, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -82.35, 26.8950303 ] } },
+{ "type": "Feature", "properties": { "PRIM": "inode", "RCID": 7, "QUAPOS": 8, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -82.3570929, 26.9227579 ] } }
+]
+}

@@ -1,9 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "M_QUAL",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "RCID": 15, "PRIM": 3, "GRUP": 2, "OBJL": 308, "RVER": 2, "AGEN": 550, "FIDN": 907238105, "FIDS": 5535, "LNAM": "022636135AD9159F", "CATZOC": 3, "SUREND": "1959", "SURSTA": "1950", "INFORM": "Lake Survey (Pre - 1974)", "SORDAT": "20160216", "SORIND": "US,US,reprt,L-149-2018" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -86.2867154, 42.975 ], [ -86.2795117, 42.975 ], [ -86.2929732, 43.05 ], [ -86.2941715, 43.05 ], [ -86.325, 43.05 ], [ -86.325, 42.975 ], [ -86.2867154, 42.975 ] ] ] } },
-{ "type": "Feature", "properties": { "RCID": 16, "PRIM": 3, "GRUP": 2, "OBJL": 308, "RVER": 1, "AGEN": 550, "FIDN": 602035453, "FIDS": 5535, "LNAM": "022623E254FD159F", "CATZOC": 3, "SUREND": "1949", "SURSTA": "1940", "INFORM": "Lake Survey (Pre - 1974)", "SORDAT": "20170509", "SORIND": "US,US,reprt,L-421/2017" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -86.2795117, 42.975 ], [ -86.25, 42.975 ], [ -86.25, 43.0354955 ], [ -86.25, 43.041365 ], [ -86.25, 43.0429711 ], [ -86.25, 43.0477435 ], [ -86.25, 43.05 ], [ -86.2518356, 43.05 ], [ -86.255523, 43.05 ], [ -86.2581704, 43.05 ], [ -86.283569, 43.05 ], [ -86.2929732, 43.05 ], [ -86.2795117, 42.975 ] ] ] } }
-]
-}

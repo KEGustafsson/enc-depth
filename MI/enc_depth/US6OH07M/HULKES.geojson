@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "HULKES",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "RCID": 2003, "PRIM": 3, "GRUP": 1, "OBJL": 65, "RVER": 1, "AGEN": 550, "FIDN": 690410445, "FIDS": 24342, "LNAM": "02262926D3CD5F16", "SORDAT": "201606", "SORIND": "US,US,graph,Chart 14846" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -82.966534, 41.5185232 ], [ -82.966596, 41.5185142 ], [ -82.9665788, 41.5184422 ], [ -82.96647, 41.5184579 ], [ -82.966401, 41.5184693 ], [ -82.9664358, 41.5185348 ], [ -82.966534, 41.5185232 ] ] ] } }
-]
-}

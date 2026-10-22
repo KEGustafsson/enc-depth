@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SELECT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "PRIM": "inode", "RCID": 25, "QUAPOS": 4, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -81.150241, 24.683509 ] } },
+{ "type": "Feature", "properties": { "PRIM": "inode", "RCID": 26, "QUAPOS": 4, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -81.199983, 24.683795 ] } },
+{ "type": "Feature", "properties": { "PRIM": "inode", "RCID": 27, "QUAPOS": 4, "POSACC": null, "NODE0": null, "NODE1": null }, "geometry": { "type": "Point", "coordinates": [ -81.1514354, 24.7020635 ] } }
+]
+}

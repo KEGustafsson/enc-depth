@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "M_QUAL",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "RCID": 4, "PRIM": 3, "GRUP": 2, "OBJL": 308, "RVER": 1, "AGEN": 550, "FIDN": 435856145, "FIDS": 7317, "LNAM": "022619FAA3111C95", "CATZOC": 3, "SUREND": "1959", "SURSTA": "1950", "INFORM": "Lake Survey (Pre - 1974)", "SORDAT": "20180221", "SORIND": "US,US,reprt,L-156-2018" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -88.2, 47.7 ], [ -88.5, 47.7 ], [ -88.5, 48.0 ], [ -88.3094385, 48.0 ], [ -88.2, 48.0 ], [ -88.2, 47.8720885 ], [ -88.2, 47.7 ] ] ] } }
-]
-}
